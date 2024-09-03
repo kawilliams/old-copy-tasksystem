@@ -15,7 +15,7 @@ hyperlink==21.0.0
 incremental==24.7.2
 msgpack-python==0.4.8
 mysqlclient
-psycopg2-binary==2.8.4
+psycopg2-binary
 pytz==2024.1
 redis
 six==1.16.0
