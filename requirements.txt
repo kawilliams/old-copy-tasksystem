@@ -20,4 +20,4 @@ redis==2.10.6
 six==1.10.0
 Twisted==17.5.0
 txaio==2.8.2
-zope.interface==4.4.2
+zope.interface==5.4.0
