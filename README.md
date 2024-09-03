@@ -1,4 +1,4 @@
-# SV task selection system server
+# Old copy SV task selection system server
 
 This is the code for the server part of the IEEE vis student volunteer task
 selection system. The frontend code is at
