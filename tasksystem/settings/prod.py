@@ -13,7 +13,7 @@ else:
 db_from_env = dj_database_url.config(conn_max_age=500)
 DATABASES['default'] = db_from_env
 
-ALLOWED_HOSTS = ['sv-task-system.herokuapp.com']
+ALLOWED_HOSTS = ['old-copy-tasksystem.herokuapp.com']
 
 # websockets
 CHANNEL_LAYERS['default'] = {
