@@ -7,7 +7,7 @@ from rest_framework.parsers import JSONParser
 from taskselection.models import Task
 from taskselection.serializers import TaskSerializer
 from rest_framework.views import APIView
-from channels import Group
+#from channels import Group
 import json
 
 class AvailableTaskList(APIView):
@@ -33,9 +33,9 @@ class SelectTask(APIView):
       task.sv = sv
       task.save()
       serializer = TaskSerializer(task)
-      Group('task_selections').send({
-        'text': json.dumps({'action': 'remove', 'task': serializer.data})
-      })
+      # Group('task_selections').send({
+      #   'text': json.dumps({'action': 'remove', 'task': serializer.data})
+      # })
       return JsonResponse(serializer.data, safe=False)
     else:
       return Response({"code": "task_taken"}, status=status.HTTP_400_BAD_REQUEST)
@@ -50,9 +50,9 @@ class SelectTask(APIView):
       task.sv = None
       task.save()
       serializer = TaskSerializer(task)
-      Group('task_selections').send({
-        'text': json.dumps({'action': 'add', 'task': serializer.data})
-      })
+      # Group('task_selections').send({
+      #   'text': json.dumps({'action': 'add', 'task': serializer.data})
+      # })
       return JsonResponse(serializer.data, safe=False)
     else:
       return Response({"code": "not_your_task"}, status=status.HTTP_400_BAD_REQUEST)
