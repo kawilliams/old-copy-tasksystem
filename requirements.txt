@@ -13,7 +13,7 @@ djangorestframework==3.14.0
 gunicorn==19.7.1
 hyperlink==21.0.0
 incremental==24.7.2
-msgpack-python==1.0.5
+msgpack-python==0.4.8
 mysqlclient
 psycopg2-binary==2.8.4
 pytz==2024.1
