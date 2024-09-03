@@ -1,0 +1,420 @@
+code,category,desc,date,starttime,endtime,location,username,duration
+1000,3,Registration Setup,2022-10-15,16:00,18:00,todo,,2.00
+1001,3,Registration Setup,2022-10-15,16:00,18:00,todo,,2.00
+1002,3,Registration,2022-10-15,18:00,20:00,todo,,2.00
+1003,3,Registration,2022-10-15,18:00,20:00,todo,,2.00
+1004,3,Registration,2022-10-15,18:00,20:00,todo,,2.00
+1005,3,Registration,2022-10-15,18:00,20:00,todo,,2.00
+1006,3,Poster set up,2022-10-15,18:00,20:00,todo,,2.00
+1007,3,Poster set up,2022-10-15,18:00,20:00,todo,,2.00
+1008,1,[Captains] Sunday morning,2022-10-16,7:45,12:30,todo,,4.75
+1009,3,Registration,2022-10-16,8:00,10:00,todo,,2.00
+1010,3,Registration,2022-10-16,8:00,10:00,todo,,2.00
+1011,3,Registration,2022-10-16,8:00,10:00,todo,,2.00
+1012,3,Registration,2022-10-16,8:00,10:00,todo,,2.00
+1013,3,Crowd Control,2022-10-16,8:00,10:00,todo,,2.00
+1014,3,Speaker Prep,2022-10-16,9:00,11:00,todo,,2.00
+1015,4,[Moderator] Symposium: LDAV: Large Data Analysis and Visualization,2022-10-16,8:45,10:15,todo,,1.50
+1016,4,[Moderator] Workshop: VIS4DH: Visualization for the Digital Humanities,2022-10-16,8:45,10:15,todo,,1.50
+1017,4,[Moderator] Symposium: VDS: Visualization in Data Science ,2022-10-16,8:45,10:15,todo,,1.50
+1018,4,[Moderator] VAST Challenge,2022-10-16,8:45,10:15,todo,,1.50
+1019,4,[Moderator] Workshop:alt.VIS,2022-10-16,8:45,10:15,todo,,1.50
+1020,4,[Moderator] Workshop: TREX: TRust and EXpertise in Visualization,2022-10-16,8:45,10:15,todo,,1.50
+1021,4,[Moderator] Tutorial: Color Scheming in Visualization,2022-10-16,8:45,10:15,todo,,1.50
+1022,4,[Moderator] Tutorial: NLP4Vis: Natural Language Processing for Information Visualization,2022-10-16,8:45,10:15,todo,,1.50
+1023,4,[In-Person] Symposium: LDAV: Large Data Analysis and Visualization,2022-10-16,8:45,10:15,todo,,1.50
+1024,4,[In-Person] Workshop: VIS4DH: Visualization for the Digital Humanities,2022-10-16,8:45,10:15,todo,,1.50
+1025,4,[In-Person] Symposium: VDS: Visualization in Data Science ,2022-10-16,8:45,10:15,todo,,1.50
+1026,4,[In-Person] VAST Challenge,2022-10-16,8:45,10:15,todo,,1.50
+1027,4,[In-Person] Workshop:alt.VIS,2022-10-16,8:45,10:15,todo,,1.50
+1028,4,[In-Person] Workshop: TREX: TRust and EXpertise in Visualization,2022-10-16,8:45,10:15,todo,,1.50
+1029,4,[In-Person] Tutorial: Color Scheming in Visualization,2022-10-16,8:45,10:15,todo,,1.50
+1030,4,[In-Person] Tutorial: NLP4Vis: Natural Language Processing for Information Visualization,2022-10-16,8:45,10:15,todo,,1.50
+1031,5,Standbys,2022-10-16,8:45,10:45,todo,,2.00
+1032,5,Standbys,2022-10-16,8:45,10:45,todo,,2.00
+1033,3,Registration,2022-10-16,10:00,12:00,todo,,2.00
+1034,3,Registration,2022-10-16,10:00,12:00,todo,,2.00
+1035,3,Registration,2022-10-16,10:00,12:00,todo,,2.00
+1036,3,Speaker Prep,2022-10-16,11:00,13:00,todo,,2.00
+1037,4,[Moderator] Symposium: LDAV: Large Data Analysis and Visualization,2022-10-16,10:30,12:00,todo,,1.50
+1038,4,[Moderator] Workshop: VIS4DH: Visualization for the Digital Humanities,2022-10-16,10:30,12:00,todo,,1.50
+1039,4,[Moderator] Symposium: VDS: Visualization in Data Science ,2022-10-16,10:30,12:00,todo,,1.50
+1040,4,[Moderator] VAST Challenge,2022-10-16,10:30,12:00,todo,,1.50
+1041,4,[Moderator] Workshop: alt.VIS,2022-10-16,10:30,12:00,todo,,1.50
+1042,4,[Moderator] Workshop: TREX: TRust and EXpertise in Visualization,2022-10-16,10:30,12:00,todo,,1.50
+1043,4,[Moderator] Tutorial: Color Scheming in Visualization,2022-10-16,10:30,12:00,todo,,1.50
+1044,4,[Moderator] Tutorial: NLP4Vis: Natural Language Processing for Information Visualization,2022-10-16,10:30,12:00,todo,,1.50
+1045,4,[In-Person] Symposium: LDAV: Large Data Analysis and Visualization,2022-10-16,10:30,12:00,todo,,1.50
+1046,4,[In-Person] Workshop: VIS4DH: Visualization for the Digital Humanities,2022-10-16,10:30,12:00,todo,,1.50
+1047,4,[In-Person] Symposium: VDS: Visualization in Data Science ,2022-10-16,10:30,12:00,todo,,1.50
+1048,4,[In-Person] VAST Challenge,2022-10-16,10:30,12:00,todo,,1.50
+1049,4,[In-Person] Workshop: alt.VIS,2022-10-16,10:30,12:00,todo,,1.50
+1050,4,[In-Person] Workshop: TREX: TRust and EXpertise in Visualization,2022-10-16,10:30,12:00,todo,,1.50
+1051,4,[In-Person] Tutorial: Color Scheming in Visualization,2022-10-16,10:30,12:00,todo,,1.50
+1052,4,[In-Person] Tutorial: NLP4Vis: Natural Language Processing for Information Visualization,2022-10-16,10:30,12:00,todo,,1.50
+1053,5,Standbys,2022-10-16,10:45,12:45,todo,,2.00
+1054,5,Standbys,2022-10-16,10:45,12:45,todo,,2.00
+1055,3,[VISAP] Setup of the art exhibits,2022-10-16,12:00,14:30,todo,,2.50
+1056,3,[VISAP] Setup of the art exhibits,2022-10-16,12:00,14:30,todo,,2.50
+1057,3,Registration,2022-10-16,12:00,14:00,todo,,2.00
+1058,3,Registration,2022-10-16,12:00,14:00,todo,,2.00
+1059,1,[Captains] Sunday afternoon,2022-10-16,12:30,17:00,todo,,4.50
+1060,3,Speaker Prep,2022-10-16,13:00,15:00,todo,,2.00
+1061,4,[Moderator] Symposium: LDAV: Large Data Analysis and Visualization,2022-10-16,13:45,15:15,todo,,1.50
+1062,4,[Moderator] Workshop: VIS4DH: Visualization for the Digital Humanities,2022-10-16,13:45,15:15,todo,,1.50
+1063,4,[Moderator] Bio+MedVis Challenges,2022-10-16,13:45,15:15,todo,,1.50
+1064,4,[Moderator] Workshop: Visualization for Social Good,2022-10-16,13:45,15:15,todo,,1.50
+1065,4,[Moderator] Workshop: NLVIZ: Exploring Research Opportunities for Natural Language Text and Data Visualization,2022-10-16,13:45,15:15,todo,,1.50
+1066,4,[Moderator] Tutorial: Multilayer Network Visualization: Theory and applications,2022-10-16,13:45,15:15,todo,,1.50
+1067,4,[Moderator] Tutorial: Visualization Analysis and Design,2022-10-16,13:45,15:15,todo,,1.50
+1068,4,[Moderator] Tutorial: Sports Data Analysis and Visualization,2022-10-16,13:45,15:15,todo,,1.50
+1069,4,[In-Person] Symposium: LDAV: Large Data Analysis and Visualization,2022-10-16,13:45,15:15,todo,,1.50
+1070,4,[In-Person] Workshop: VIS4DH: Visualization for the Digital Humanities,2022-10-16,13:45,15:15,todo,,1.50
+1071,4,[In-Person] Bio+MedVis Challenges,2022-10-16,13:45,15:15,todo,,1.50
+1072,4,[In-Person] Workshop: Visualization for Social Good,2022-10-16,13:45,15:15,todo,,1.50
+1073,4,[Moderator] Workshop: NLVIZ: Exploring Research Opportunities for Natural Language Text and Data Visualization,2022-10-16,13:45,15:15,todo,,1.50
+1074,4,[In-Person] Tutorial: Multilayer Network Visualization: Theory and applications,2022-10-16,13:45,15:15,todo,,1.50
+1075,4,[In-Person] Tutorial: Visualization Analysis and Design,2022-10-16,13:45,15:15,todo,,1.50
+1076,4,[In-Person] Tutorial: Sports Data Analysis and Visualization,2022-10-16,13:45,15:15,todo,,1.50
+1077,5,Standbys,2022-10-16,13:45,15:15,todo,,1.50
+1078,5,Standbys,2022-10-16,13:45,15:15,todo,,1.50
+1079,3,Registration,2022-10-16,14:00,16:00,todo,,2.00
+1080,3,Registration,2022-10-16,14:00,16:00,todo,,2.00
+1081,3,[VISAP] Setup of the art exhibits,2022-10-16,14:30,17:00,todo,,2.50
+1082,3,[VISAP] Setup of the art exhibits,2022-10-16,14:30,17:00,todo,,2.50
+1083,3,Speaker Prep,2022-10-16,15:00,18:00,todo,,3.00
+1084,4,[Moderator] Symposium: LDAV: Large Data Analysis and Visualization,2022-10-16,15:30,17:00,todo,,1.50
+1085,4,[Moderator] Workshop: VIS4DH: Visualization for the Digital Humanities,2022-10-16,15:30,17:00,todo,,1.50
+1086,4,[Moderator] Bio+MedVis Challenges,2022-10-16,15:30,17:00,todo,,1.50
+1087,4,[Moderator] Workshop: Visualization for Social Good,2022-10-16,15:30,17:00,todo,,1.50
+1088,4,[Moderator] Workshop: NLVIZ: Exploring Research Opportunities for Natural Language Text and Data Visualization,2022-10-16,15:30,17:00,todo,,1.50
+1089,4,[Moderator] Tutorial: Multilayer Network Visualization: Theory and applications,2022-10-16,15:30,17:00,todo,,1.50
+1090,4,[Moderator] Tutorial: Visualization Analysis and Design,2022-10-16,15:30,17:00,todo,,1.50
+1091,4,[Moderator] Tutorial: Sports Data Analysis and Visualization,2022-10-16,15:30,17:00,todo,,1.50
+1092,4,[In-Person] Symposium: LDAV: Large Data Analysis and Visualization,2022-10-16,15:30,17:00,todo,,1.50
+1093,4,[In-Person] Workshop: VIS4DH: Visualization for the Digital Humanities,2022-10-16,15:30,17:00,todo,,1.50
+1094,4,[In-Person] Bio+MedVis Challenges,2022-10-16,15:30,17:00,todo,,1.50
+1095,4,[In-Person] Workshop: Visualization for Social Good,2022-10-16,15:30,17:00,todo,,1.50
+1096,4,[Moderator] Workshop: NLVIZ: Exploring Research Opportunities for Natural Language Text and Data Visualization,2022-10-16,15:30,17:00,todo,,1.50
+1097,4,[In-Person] Tutorial: Multilayer Network Visualization: Theory and applications,2022-10-16,15:30,17:00,todo,,1.50
+1098,4,[In-Person] Tutorial: Visualization Analysis and Design,2022-10-16,15:30,17:00,todo,,1.50
+1099,4,[In-Person] Tutorial: Sports Data Analysis and Visualization,2022-10-16,15:30,17:00,todo,,1.50
+1100,5,Standbys,2022-10-16,15:30,17:00,todo,,1.50
+1101,5,Standbys,2022-10-16,15:30,17:00,todo,,1.50
+1102,3,Registration,2022-10-17,8:00,10:00,todo,,2.00
+1103,3,Registration,2022-10-17,8:00,10:00,todo,,2.00
+1104,3,Registration,2022-10-17,8:00,10:00,todo,,2.00
+1105,3,Speaker Prep,2022-10-17,9:00,11:00,todo,,2.00
+1106,1,[Captains] Monday morning,2022-10-17,7:45,12:30,todo,,4.75
+1107,3,[VISAP] Setup of the art exhibits,2022-10-17,9:00,11:00,todo,,2.00
+1108,3,[VISAP] Setup of the art exhibits,2022-10-17,9:00,11:00,todo,,2.00
+1109,3,[VISAP] Setup of the art exhibits,2022-10-17,9:00,11:00,todo,,2.00
+1110,4,[Moderator] Workshop: BELIV: Evaluation and BEyond - methodoLogIcal approaches for Visualization,2022-10-17,8:45,10:15,todo,,1.50
+1111,4,[Moderator] VisInPractice,2022-10-17,8:45,10:15,todo,,1.50
+1112,4,[Moderator] Workshop: Visualization in BioMedical AI,2022-10-17,8:45,10:15,todo,,1.50
+1113,4,[Moderator] Workshop: TestVis: Visualization in Testing of Hardware Software and Manufacturing,2022-10-17,8:45,10:15,todo,,1.50
+1114,4,[Moderator] Workshop: VisComm: Visualization for Communication,2022-10-17,8:45,10:15,todo,,1.50
+1115,4,[Moderator] Tutorial: Topological Analysis of Ensemble Scalar Data with TTK+ A Sequel,2022-10-17,8:45,10:15,todo,,1.50
+1116,4,[Moderator] Tutorial: Riemannian Geometry for Scientific Visualization,2022-10-17,8:45,10:15,todo,,1.50
+1117,4,[Moderator] Tutorial: Visualization in Bayesian workflow,2022-10-17,8:45,10:15,todo,,1.50
+1118,4,[In-Person] Workshop: BELIV: Evaluation and BEyond - methodoLogIcal approaches for Visualization,2022-10-17,8:45,10:15,todo,,1.50
+1119,4,[In-Person] VisInPractice,2022-10-17,8:45,10:15,todo,,1.50
+1120,4,[In-Person] Workshop: Visualization in BioMedical AI,2022-10-17,8:45,10:15,todo,,1.50
+1121,4,[In-Person] Workshop: TestVis: Visualization in Testing of Hardware+ Software+ and Manufacturing,2022-10-17,8:45,10:15,todo,,1.50
+1122,4,[In-Person] Workshop: VisComm: Visualization for Communication,2022-10-17,8:45,10:15,todo,,1.50
+1123,4,[In-Person] Tutorial: Topological Analysis of Ensemble Scalar Data with TTK+ A Sequel,2022-10-17,8:45,10:15,todo,,1.50
+1124,4,[In-Person] Tutorial: Riemannian Geometry for Scientific Visualization,2022-10-17,8:45,10:15,todo,,1.50
+1125,4,[In-Person] Tutorial: Visualization in Bayesian workflow,2022-10-17,8:45,10:15,todo,,1.50
+1126,5,Standbys,2022-10-17,8:45,10:15,todo,,1.50
+1127,5,Standbys,2022-10-17,8:45,10:15,todo,,1.50
+1128,3,Registration,2022-10-17,10:00,12:00,todo,,2.00
+1129,3,Registration,2022-10-17,10:00,12:00,todo,,2.00
+1130,3,Speaker Prep,2022-10-17,11:00,13:00,todo,,2.00
+1131,3,[VISAP] Setup of the art exhibits,2022-10-17,11:00,13:00,todo,,2.00
+1132,3,[VISAP] Setup of the art exhibits,2022-10-17,11:00,13:00,todo,,2.00
+1133,3,[VISAP] Setup of the art exhibits,2022-10-17,11:00,13:00,todo,,2.00
+1134,4,[Moderator] Workshop: BELIV: Evaluation and BEyond - methodoLogIcal approaches for Visualization,2022-10-17,10:30,12:00,todo,,1.50
+1135,4,[Moderator] VisInPractice,2022-10-17,10:30,12:00,todo,,1.50
+1136,4,[Moderator] Workshop: Visualization in BioMedical AI,2022-10-17,10:30,12:00,todo,,1.50
+1137,4,[Moderator] Workshop: TestVis: Visualization in Testing of Hardware+ Software+ and Manufacturing,2022-10-17,10:30,12:00,todo,,1.50
+1138,4,[Moderator] Workshop: VisComm: Visualization for Communication,2022-10-17,10:30,12:00,todo,,1.50
+1139,4,[Moderator] Tutorial: Topological Analysis of Ensemble Scalar Data with TTK+ A Sequel,2022-10-17,10:30,12:00,todo,,1.50
+1140,4,[Moderator] Tutorial: Riemannian Geometry for Scientific Visualization,2022-10-17,10:30,12:00,todo,,1.50
+1141,4,[Moderator] Tutorial: Visualization in Bayesian workflow,2022-10-17,10:30,12:00,todo,,1.50
+1142,4,[In-Person] Workshop: BELIV: Evaluation and BEyond - methodoLogIcal approaches for Visualization,2022-10-17,10:30,12:00,todo,,1.50
+1143,4,[In-Person] VisInPractice,2022-10-17,10:30,12:00,todo,,1.50
+1144,4,[In-Person] Workshop: Visualization in BioMedical AI,2022-10-17,10:30,12:00,todo,,1.50
+1145,4,[In-Person] Workshop: TestVis: Visualization in Testing of Hardware+ Software+ and Manufacturing,2022-10-17,10:30,12:00,todo,,1.50
+1146,4,[In-Person] Workshop: VisComm: Visualization for Communication,2022-10-17,10:30,12:00,todo,,1.50
+1147,4,[In-Person] Tutorial: Topological Analysis of Ensemble Scalar Data with TTK+ A Sequel,2022-10-17,10:30,12:00,todo,,1.50
+1148,4,[In-Person] Tutorial: Riemannian Geometry for Scientific Visualization,2022-10-17,10:30,12:00,todo,,1.50
+1149,4,[In-Person] Tutorial: Visualization in Bayesian workflow,2022-10-17,10:30,12:00,todo,,1.50
+1150,5,Standbys,2022-10-17,10:30,12:00,todo,,1.50
+1151,5,Standbys,2022-10-17,10:30,12:00,todo,,1.50
+1152,3,Registration,2022-10-17,12:00,14:00,todo,,2.00
+1153,3,Registration,2022-10-17,12:00,14:00,todo,,2.00
+1154,3,Speaker Prep,2022-10-17,13:00,15:00,todo,,2.00
+1155,1,[Captains] Monday afternoon,2022-10-17,12:30,17:00,todo,,4.50
+1156,3,[VISAP] Setup of the art exhibits,2022-10-17,13:00,15:00,todo,,2.00
+1157,3,[VISAP] Setup of the art exhibits,2022-10-17,13:00,15:00,todo,,2.00
+1158,3,[VISAP] Setup of the art exhibits,2022-10-17,13:00,15:00,todo,,2.00
+1159,4,[Moderator] Workshop: BELIV: Evaluation and BEyond - methodoLogIcal approaches for Visualization,2022-10-17,13:45,15:15,todo,,1.50
+1160,4,[Moderator] VisInPractice,2022-10-17,13:45,15:15,todo,,1.50
+1161,4,[Moderator] Workshop: VISxAI: Visualization for AI Explainability,2022-10-17,13:45,15:15,todo,,1.50
+1162,4,[Moderator] Workshop: TopoInVis: Topological Data Analysis and Visualization,2022-10-17,13:45,15:15,todo,,1.50
+1163,4,[Moderator] Workshop: Viz4Climate: High Impact Techniques for Visual Climate Science Communication,2022-10-17,13:45,15:15,todo,,1.50
+1164,4,[Moderator] Workshop: VisGuides: Visualization Guidelines in Research+ Design+ and Education,2022-10-17,13:45,15:15,todo,,1.50
+1165,4,[Moderator] Tutorial: Analyze and Visualize Large Scale Geospatial Data with H3 and HexTile,2022-10-17,13:45,15:15,todo,,1.50
+1166,4,[Moderator] Tutorial: VTK-m – A ToolKit for Scientific Visualization on Many-Core Processors,2022-10-17,13:45,15:15,todo,,1.50
+1167,4,[In-Person] Workshop: BELIV: Evaluation and BEyond - methodoLogIcal approaches for Visualization,2022-10-17,13:45,15:15,todo,,1.50
+1168,4,[In-Person] VisInPractice,2022-10-17,13:45,15:15,todo,,1.50
+1169,4,[In-Person] Workshop: VISxAI: Visualization for AI Explainability,2022-10-17,13:45,15:15,todo,,1.50
+1170,4,[In-Person] Workshop: TopoInVis: Topological Data Analysis and Visualization,2022-10-17,13:45,15:15,todo,,1.50
+1171,4,[In-Person] Workshop: Viz4Climate: High Impact Techniques for Visual Climate Science Communication,2022-10-17,13:45,15:15,todo,,1.50
+1172,4,[In-Person] Workshop: VisGuides: Visualization Guidelines in Research+ Design+ and Education,2022-10-17,13:45,15:15,todo,,1.50
+1173,4,[In-Person] Tutorial: Analyze and Visualize Large Scale Geospatial Data with H3 and HexTile,2022-10-17,13:45,15:15,todo,,1.50
+1174,4,[In-Person] Tutorial: VTK-m – A ToolKit for Scientific Visualization on Many-Core Processors,2022-10-17,13:45,15:15,todo,,1.50
+1175,5,Standbys ,2022-10-17,13:45,15:15,todo,,1.50
+1176,5,Standbys,2022-10-17,13:45,15:15,todo,,1.50
+1177,3,Registration,2022-10-17,14:00,16:00,todo,,2.00
+1178,3,Registration,2022-10-17,14:00,16:00,todo,,2.00
+1179,3,Speaker Prep,2022-10-17,15:00,18:00,todo,,3.00
+1180,3,[VISAP] Setup of the art exhibits,2022-10-17,15:00,17:00,todo,,2.00
+1181,3,[VISAP] Setup of the art exhibits,2022-10-17,15:00,17:00,todo,,2.00
+1182,3,[VISAP] Setup of the art exhibits,2022-10-17,15:00,17:00,todo,,2.00
+1183,4,[Moderator] Workshop: BELIV: Evaluation and BEyond - methodoLogIcal approaches for Visualization,2022-10-17,15:30,17:00,todo,,1.50
+1184,4,[Moderator] VisInPractice,2022-10-17,15:30,17:00,todo,,1.50
+1185,4,[Moderator] Workshop: VISxAI: Visualization for AI Explainability,2022-10-17,15:30,17:00,todo,,1.50
+1186,4,[Moderator] Workshop: TopoInVis: Topological Data Analysis and Visualization,2022-10-17,15:30,17:00,todo,,1.50
+1187,4,[Moderator] Workshop: Viz4Climate: High Impact Techniques for Visual Climate Science Communication,2022-10-17,15:30,17:00,todo,,1.50
+1188,4,[Moderator] Workshop: VisGuides: Visualization Guidelines in Research+ Design+ and Education,2022-10-17,15:30,17:00,todo,,1.50
+1189,4,[Moderator] Tutorial: Analyze and Visualize Large Scale Geospatial Data with H3 and HexTile,2022-10-17,15:30,17:00,todo,,1.50
+1190,4,[Moderator] Tutorial: VTK-m – A ToolKit for Scientific Visualization on Many-Core Processors,2022-10-17,15:30,17:00,todo,,1.50
+1191,4,[In-Person] Workshop: BELIV: Evaluation and BEyond - methodoLogIcal approaches for Visualization,2022-10-17,15:30,17:00,todo,,1.50
+1192,4,[In-Person] VisInPractice,2022-10-17,15:30,17:00,todo,,1.50
+1193,4,[In-Person] Workshop: VISxAI: Visualization for AI Explainability,2022-10-17,15:30,17:00,todo,,1.50
+1194,4,[In-Person] Workshop: TopoInVis: Topological Data Analysis and Visualization,2022-10-17,15:30,17:00,todo,,1.50
+1195,4,[In-Person] Workshop: Viz4Climate: High Impact Techniques for Visual Climate Science Communication,2022-10-17,15:30,17:00,todo,,1.50
+1196,4,[In-Person] Workshop: VisGuides: Visualization Guidelines in Research+ Design+ and Education,2022-10-17,15:30,17:00,todo,,1.50
+1197,4,[In-Person] Tutorial: Analyze and Visualize Large Scale Geospatial Data with H3 and HexTile,2022-10-17,15:30,17:00,todo,,1.50
+1198,4,[In-Person] Tutorial: VTK-m – A ToolKit for Scientific Visualization on Many-Core Processors,2022-10-17,15:30,17:00,todo,,1.50
+1199,5,Standbys,2022-10-17,15:30,17:00,todo,,1.50
+1200,5,Standbys,2022-10-17,15:30,17:00,todo,,1.50
+1201,3,Registration,2022-10-18,8:00,10:00,todo,,2.00
+1202,3,Registration,2022-10-18,8:00,10:00,todo,,2.00
+1203,3,Registration,2022-10-18,8:00,10:00,todo,,2.00
+1204,3,Registration,2022-10-18,8:00,10:00,todo,,2.00
+1205,3,Crowd Control,2022-10-18,8:00,10:00,todo,,2.00
+1206,3,Speaker Prep,2022-10-18,8:30,11:00,todo,,2.50
+1207,1,[Captains] Tuesday morning,2022-10-18,7:45,13:00,todo,,5.25
+1208,4,[Moderator] VIS Welcome / VGTC Awards / Test of Time Awards,2022-10-18,8:15,10:15,todo,,2.00
+1209,4,[In-Person] VIS Welcome / VGTC Awards / Test of Time Awards,2022-10-18,8:15,10:15,todo,,2.00
+1210,4,[In-Person] VIS Welcome / VGTC Awards / Test of Time Awards,2022-10-18,8:15,10:15,todo,,2.00
+1211,3,[VISAP] Setup of the art exhibits,2022-10-18,9:00,11:00,todo,,2.00
+1212,3,[VISAP] Setup of the art exhibits,2022-10-18,9:00,11:00,todo,,2.00
+1213,5,Standbys,2022-10-18,8:15,10:15,todo,,2.00
+1214,5,Standbys,2022-10-18,8:15,10:15,todo,,2.00
+1215,3,Registration,2022-10-18,10:00,12:00,todo,,2.00
+1216,3,Registration,2022-10-18,10:00,12:00,todo,,2.00
+1217,3,Speaker Prep,2022-10-18,11:00,13:00,todo,,2.00
+1218,4,[Moderator] VIS Opening / Best Papers,2022-10-18,10:30,12:00,todo,,1.50
+1219,4,[In-Person] VIS Opening / Best Papers,2022-10-18,10:30,12:00,todo,,1.50
+1220,4,[In-Person] VIS Opening / Best Papers,2022-10-18,10:30,12:00,todo,,1.50
+1221,3,[VISAP] Setup of the art exhibits,2022-10-18,11:00,13:00,todo,,2.00
+1222,3,[VISAP] Setup of the art exhibits,2022-10-18,11:00,13:00,todo,,2.00
+1223,5,Standbys,2022-10-18,10:30,12:00,todo,,1.50
+1224,5,Standbys,2022-10-18,10:30,12:00,todo,,1.50
+1225,3,Registration,2022-10-18,12:00,14:00,todo,,2.00
+1226,3,Registration,2022-10-18,12:00,14:00,todo,,2.00
+1227,3,Speaker Prep,2022-10-18,13:00,15:00,todo,,2.00
+1228,3,[VISAP] Setup of the art exhibits,2022-10-18,13:00,15:00,todo,,2.00
+1229,3,[VISAP] Setup of the art exhibits,2022-10-18,13:00,15:00,todo,,2.00
+1230,1,[Captains] Tuesday afternoon,2022-10-18,13:00,18:00,todo,,5.00
+1231,4,[Moderator] Industry Keynote / VIS Keynote,2022-10-18,13:45,15:15,todo,,1.50
+1232,4,[In-Person] Industry Keynote / VIS Keynote,2022-10-18,13:45,15:15,todo,,1.50
+1233,4,[In-Person] Industry Keynote / VIS Keynote,2022-10-18,13:45,15:15,todo,,1.50
+1234,5,Standbys,2022-10-18,13:45,15:15,todo,,1.50
+1235,5,Standbys,2022-10-18,13:45,15:15,todo,,1.50
+1236,3,Registration,2022-10-18,14:00,16:00,todo,,2.00
+1237,3,Registration,2022-10-18,14:00,16:00,todo,,2.00
+1238,3,Speaker Prep,2022-10-18,15:00,18:00,todo,,3.00
+1239,3,[In-Person] VIS Supporters Forum,2022-10-18,15:30,17:00,todo,,1.50
+1240,5,Standbys,2022-10-18,15:30,17:00,todo,,1.50
+1241,5,Standbys,2022-10-18,15:30,17:00,todo,,1.50
+1242,3,VISAP opening,2022-10-18,17:45,20:00,todo,,2.25
+1243,3,VISAP opening,2022-10-18,17:45,20:00,todo,,2.25
+1244,3,Registration,2022-10-19,8:00,10:00,todo,,2.00
+1245,3,Registration,2022-10-19,8:00,10:00,todo,,2.00
+1246,3,Speaker Prep,2022-10-19,9:00,11:00,todo,,2.00
+1247,1,[Captains] Wednesday morning,2022-10-19,7:45,13:30,todo,,5.75
+1248,3,[VISAP] Monitor the art exhibition space,2022-10-19,9:00,11:00,todo,,2.00
+1249,4,[Moderator] VA and ML,2022-10-19,8:45,10:15,todo,,1.50
+1250,4,[Moderator] Transforming Tabular Data and Grammars,2022-10-19,8:45,10:15,todo,,1.50
+1251,4,[Moderator] Temporal Data,2022-10-19,8:45,10:15,todo,,1.50
+1252,4,[Moderator] Decision Making and Reasoning,2022-10-19,8:45,10:15,todo,,1.50
+1253,4,[Moderator] VISAP Session 1,2022-10-19,8:45,10:15,todo,,1.50
+1254,4,[Moderator] VizSec,2022-10-19,8:45,10:15,todo,,1.50
+1255,4,[In-Person] VA and ML,2022-10-19,8:45,10:15,todo,,1.50
+1256,4,[In-Person] Transforming Tabular Data and Grammars,2022-10-19,8:45,10:15,todo,,1.50
+1257,4,[In-Person] Temporal Data,2022-10-19,8:45,10:15,todo,,1.50
+1258,4,[In-Person] Decision Making and Reasoning,2022-10-19,8:45,10:15,todo,,1.50
+1259,4,[In-Person] VISAP Session 1,2022-10-19,8:45,10:15,todo,,1.50
+1260,4,[In-Person] VizSec,2022-10-19,8:45,10:15,todo,,1.50
+1261,5,Standbys,2022-10-19,8:45,10:15,todo,,1.50
+1262,5,Standbys,2022-10-19,8:45,10:15,todo,,1.50
+1263,3,Registration,2022-10-19,10:00,12:00,todo,,2.00
+1264,3,Registration,2022-10-19,10:00,12:00,todo,,2.00
+1265,3,Speaker Prep,2022-10-19,11:00,13:00,todo,,2.00
+1266,3,[VISAP] Monitor the art exhibition space,2022-10-19,11:00,13:00,todo,,2.00
+1267,4,[Moderator] VA and ML,2022-10-19,10:30,12:00,todo,,1.50
+1268,4,[Moderator] Visualization Design,2022-10-19,10:30,12:00,todo,,1.50
+1269,4,[Moderator] Understanding and Modeling How People Respond to Visualizations,2022-10-19,10:30,12:00,todo,,1.50
+1270,4,[Moderator] Visualization Opportunities,2022-10-19,10:30,12:00,todo,,1.50
+1271,4,[Moderator] SIGGRAPH Invited Talks,2022-10-19,10:30,12:00,todo,,1.50
+1272,4,[Moderator] VizSec,2022-10-19,10:30,12:00,todo,,1.50
+1273,4,[In-Person] VA and ML,2022-10-19,10:30,12:00,todo,,1.50
+1274,4,[In-Person] Visualization Design,2022-10-19,10:30,12:00,todo,,1.50
+1275,4,[In-Person] Understanding and Modeling How People Respond to Visualizations,2022-10-19,10:30,12:00,todo,,1.50
+1276,4,[In-Person] Visualization Opportunities,2022-10-19,10:30,12:00,todo,,1.50
+1277,4,[In-Person] SIGGRAPH Invited Talks,2022-10-19,10:30,12:00,todo,,1.50
+1278,4,[In-Person] VizSec,2022-10-19,10:30,12:00,todo,,1.50
+1279,5,Standbys,2022-10-19,10:30,12:00,todo,,1.50
+1280,5,Standbys,2022-10-19,10:30,12:00,todo,,1.50
+1281,3,Registration,2022-10-19,12:00,14:00,todo,,2.00
+1282,3,Registration,2022-10-19,12:00,14:00,todo,,2.00
+1283,3,Speaker Prep,2022-10-19,13:00,15:00,todo,,2.00
+1284,3,[VISAP] Monitor the art exhibition space,2022-10-19,13:00,15:00,todo,,2.00
+1285,1,[Captains] Wednesday afternoon,2022-10-19,13:30,19:30,todo,,6.00
+1286,4,[Moderator] Immersive Analytics and Situated Visualization,2022-10-19,13:45,15:15,todo,,1.50
+1287,4,[Moderator] Questioning Data and Data Bias,2022-10-19,13:45,15:15,todo,,1.50
+1288,4,[Moderator] (Volume) Rendering,2022-10-19,13:45,15:15,todo,,1.50
+1289,4,[Moderator] Visualization Systems and Graph Visualization,2022-10-19,13:45,15:15,todo,,1.50
+1290,4,[Moderator] Data Analysis Methods for Climate Modeling of Extreme Weather Events,2022-10-19,13:45,15:15,todo,,1.50
+1291,4,[Moderator] VizSec,2022-10-19,13:45,15:15,todo,,1.50
+1292,4,[In-Person] Immersive Analytics and Situated Visualization,2022-10-19,13:45,15:15,todo,,1.50
+1293,4,[In-Person] Questioning Data and Data Bias,2022-10-19,13:45,15:15,todo,,1.50
+1294,4,[In-Person] (Volume) Rendering,2022-10-19,13:45,15:15,todo,,1.50
+1295,4,[In-Person] Visualization Systems and Graph Visualization,2022-10-19,13:45,15:15,todo,,1.50
+1296,4,[In-Person] Data Analysis Methods for Climate Modeling of Extreme Weather Events,2022-10-19,13:45,15:15,todo,,1.50
+1297,4,[In-Person] VizSec,2022-10-19,13:45,15:15,todo,,1.50
+1298,5,Standbys,2022-10-19,13:45,15:15,todo,,1.50
+1299,5,Standbys,2022-10-19,13:45,15:15,todo,,1.50
+1300,3,Registration,2022-10-19,14:00,16:00,todo,,2.00
+1301,3,Registration,2022-10-19,14:00,16:00,todo,,2.00
+1302,3,Speaker Prep,2022-10-19,15:00,18:00,todo,,3.00
+1303,3,[VISAP] Monitor the art exhibition space,2022-10-19,15:00,17:00,todo,,2.00
+1304,4,[Moderator] Visual Analytics+ Decision Support+ and Machine Learning,2022-10-19,15:30,17:00,todo,,1.50
+1305,4,[Moderator] Uncertainty,2022-10-19,15:30,17:00,todo,,1.50
+1306,4,[Moderator] Dealing with Scale+ Space+ and Dimension,2022-10-19,15:30,17:00,todo,,1.50
+1307,4,[Moderator] DNA/Genome and Molecular Data/Vis,2022-10-19,15:30,17:00,todo,,1.50
+1308,4,[Moderator] CG&A: Visualization in Industry,2022-10-19,15:30,17:00,todo,,1.50
+1309,4,[Moderator] Grand Challenges in Visual Analytic Systems,2022-10-19,15:30,17:00,todo,,1.50
+1310,4,[In-Person] Visual Analytics+ Decision Support+ and Machine Learning,2022-10-19,15:30,17:00,todo,,1.50
+1311,4,[In-Person] Uncertainty,2022-10-19,15:30,17:00,todo,,1.50
+1312,4,[In-Person] Dealing with Scale+ Space+ and Dimension,2022-10-19,15:30,17:00,todo,,1.50
+1313,4,[In-Person] DNA/Genome and Molecular Data/Vis,2022-10-19,15:30,17:00,todo,,1.50
+1314,4,[In-Person] CG&A: Visualization in Industry,2022-10-19,15:30,17:00,todo,,1.50
+1315,4,[In-Person] Grand Challenges in Visual Analytic Systems,2022-10-19,15:30,17:00,todo,,1.50
+1316,5,Standbys,2022-10-19,15:30,17:00,todo,,1.50
+1317,5,Standbys,2022-10-19,15:30,17:00,todo,,1.50
+1318,3,VIS Combined Poster Session,2022-10-19,17:15,19:00,todo,,1.75
+1319,3,VIS Combined Poster Session,2022-10-19,17:15,19:00,todo,,1.75
+1320,3,VIS Banquet/Dinner Reception,2022-10-19,19:00,21:00,todo,,2.00
+1321,3,VIS Banquet/Dinner Reception,2022-10-19,19:00,21:00,todo,,2.00
+1322,3,VIS Banquet/Dinner Reception,2022-10-19,19:00,21:00,todo,,2.00
+1323,3,VIS Banquet/Dinner Reception,2022-10-19,19:00,21:00,todo,,2.00
+1324,3,VIS Banquet/Dinner Reception,2022-10-19,19:00,21:00,todo,,2.00
+1325,3,VIS Banquet/Dinner Reception,2022-10-19,19:00,21:00,todo,,2.00
+1326,3,Registration,2022-10-20,8:00,10:00,todo,,2.00
+1327,3,Registration,2022-10-20,8:00,10:00,todo,,2.00
+1328,3,Speaker Prep,2022-10-20,9:00,11:00,todo,,2.00
+1329,1,[Captains] Thursday morning,2022-10-20,7:45,12:30,todo,,4.75
+1330,3,[VISAP] Monitor the art exhibition space,2022-10-20,9:00,11:00,todo,,2.00
+1331,4,[Moderator] ML for VIS,2022-10-20,8:45,10:15,todo,,1.50
+1332,4,[Moderator] Interactive Dimensionality (High Dimensional Data),2022-10-20,8:45,10:15,todo,,1.50
+1333,4,[Moderator] Neuro/Brain/Medical Data,2022-10-20,8:45,10:15,todo,,1.50
+1334,4,[Moderator] Personal Visualization+ Theory+ Evaluation+ and eXtended Reality,2022-10-20,8:45,10:15,todo,,1.50
+1335,4,[Moderator] VISAP Session 2,2022-10-20,8:45,10:15,todo,,1.50
+1336,4,[Moderator] SciVis Contest,2022-10-20,8:45,10:15,todo,,1.50
+1337,4,[In-Person] ML for VIS,2022-10-20,8:45,10:15,todo,,1.50
+1338,4,[In-Person] Interactive Dimensionality (High Dimensional Data),2022-10-20,8:45,10:15,todo,,1.50
+1339,4,[In-Person] Neuro/Brain/Medical Data,2022-10-20,8:45,10:15,todo,,1.50
+1340,4,[In-Person] Personal Visualization+ Theory+ Evaluation+ and eXtended Reality,2022-10-20,8:45,10:15,todo,,1.50
+1341,4,[In-Person] VISAP Session 2,2022-10-20,8:45,10:15,todo,,1.50
+1342,4,[In-Person] SciVis Contest,2022-10-20,8:45,10:15,todo,,1.50
+1343,5,Standbys,2022-10-20,8:45,10:15,todo,,1.50
+1344,5,Standbys,2022-10-20,8:45,10:15,todo,,1.50
+1345,3,Registration,2022-10-20,10:00,12:00,todo,,2.00
+1346,3,Speaker Prep,2022-10-20,11:00,13:00,todo,,2.00
+1347,3,[VISAP] Monitor the art exhibition space,2022-10-20,11:00,13:00,todo,,2.00
+1348,4,[Moderator] Interpreting Machine Learning,2022-10-20,10:30,12:00,todo,,1.50
+1349,4,[Moderator] Graphs and Networks,2022-10-20,10:30,12:00,todo,,1.50
+1350,4,[Moderator] Sports Vis,2022-10-20,10:30,12:00,todo,,1.50
+1351,4,[Moderator] Digital Humanities+ e-Commerce+ and Engineering,2022-10-20,10:30,12:00,todo,,1.50
+1352,4,[Moderator] Audio-Visual Analytics: Potential Applications of Combined Sonifications and Visualizations,2022-10-20,10:30,12:00,todo,,1.50
+1353,4,[Moderator] Merits and Limits of User Study Preregistration,2022-10-20,10:30,12:00,todo,,1.50
+1354,4,[In-Person] Interpreting Machine Learning,2022-10-20,10:30,12:00,todo,,1.50
+1355,4,[In-Person] Graphs and Networks,2022-10-20,10:30,12:00,todo,,1.50
+1356,4,[In-Person] Sports Vis,2022-10-20,10:30,12:00,todo,,1.50
+1357,4,[In-Person] Digital Humanities+ e-Commerce+ and Engineering,2022-10-20,10:30,12:00,todo,,1.50
+1358,4,[In-Person] Audio-Visual Analytics: Potential Applications of Combined Sonifications and Visualizations,2022-10-20,10:30,12:00,todo,,1.50
+1359,4,[In-Person] Merits and Limits of User Study Preregistration,2022-10-20,10:30,12:00,todo,,1.50
+1360,5,Standbys,2022-10-20,10:30,12:00,todo,,1.50
+1361,5,Standbys,2022-10-20,10:30,12:00,todo,,1.50
+1362,3,Registration,2022-10-20,12:00,14:00,todo,,2.00
+1363,3,Speaker Prep,2022-10-20,13:00,15:00,todo,,2.00
+1364,3,[Captains] Thursday afternoon,2022-10-20,13:45,17:00,todo,,3.25
+1365,3,[VISAP] Monitor the art exhibition space,2022-10-20,13:00,15:00,todo,,2.00
+1366,4,[Moderator] Storytelling,2022-10-20,13:45,15:15,todo,,1.50
+1367,4,[Moderator] Reflecting on Academia and our Field,2022-10-20,13:45,15:15,todo,,1.50
+1368,4,[Moderator] CG&A: Visualization Teaching and Literacy,2022-10-20,13:45,15:15,todo,,1.50
+1369,4,[Moderator] Scientific Visualization+ Ensembles+ and Accessibility,2022-10-20,13:45,15:15,todo,,1.50
+1370,4,[Moderator] VR Invited Talks,2022-10-20,13:45,15:15,todo,,1.50
+1371,4,[In-Person] Storytelling,2022-10-20,13:45,15:15,todo,,1.50
+1372,4,[In-Person] Reflecting on Academia and our Field,2022-10-20,13:45,15:15,todo,,1.50
+1373,4,[In-Person] CG&A: Visualization Teaching and Literacy,2022-10-20,13:45,15:15,todo,,1.50
+1374,4,[In-Person] Scientific Visualization+ Ensembles+ and Accessibility,2022-10-20,13:45,15:15,todo,,1.50
+1375,4,[In-Person] VR Invited Talks,2022-10-20,13:45,15:15,todo,,1.50
+1376,5,Standbys,2022-10-20,13:45,15:15,todo,,1.50
+1377,5,Standbys,2022-10-20,13:45,15:15,todo,,1.50
+1378,3,Registration,2022-10-20,14:00,16:00,todo,,2.00
+1379,3,Speaker Prep,2022-10-20,15:00,18:00,todo,,3.00
+1380,3,[VISAP] Monitor the art exhibition space,2022-10-20,15:00,18:00,todo,,3.00
+1381,3,[VISAP] Tear down the art exhibition space,2022-10-20,16:00,18:00,todo,,2.00
+1382,4,[Moderator] Text+ Language+ and Image Data,2022-10-20,15:30,17:00,todo,,1.50
+1383,4,[Moderator] Topology,2022-10-20,15:30,17:00,todo,,1.50
+1384,4,[Moderator] CG&A: Visualization Teaching and Literacy (cont.) and Machine Learning for Visualization,2022-10-20,15:30,17:00,todo,,1.50
+1385,4,[Moderator] Provenance and Guidance,2022-10-20,15:30,17:00,todo,,1.50
+1386,4,[Moderator] Infrastructure Management,2022-10-20,15:30,17:00,todo,,1.50
+1387,4,[In-Person] Text+ Language+ and Image Data,2022-10-20,15:30,17:00,todo,,1.50
+1388,4,[In-Person] Topology,2022-10-20,15:30,17:00,todo,,1.50
+1389,4,[In-Person] CG&A: Visualization Teaching and Literacy (cont.) and Machine Learning for Visualization,2022-10-20,15:30,17:00,todo,,1.50
+1390,4,[In-Person] Provenance and Guidance,2022-10-20,15:30,17:00,todo,,1.50
+1391,4,[In-Person] Infrastructure Management,2022-10-20,15:30,17:00,todo,,1.50
+1392,5,Standbys,2022-10-20,15:30,17:00,todo,,1.50
+1393,5,Standbys,2022-10-20,15:30,17:00,todo,,1.50
+1394,3,Registration,2022-10-21,8:00,11:00,todo,,3.00
+1395,3,Poster removal,2022-10-21,8:00,10:00,todo,,2.00
+1396,3,Poster removal,2022-10-21,8:00,10:00,todo,,2.00
+1397,1,[Captains] Friday morning,2022-10-21,7:45,13:00,todo,,5.25
+1398,3,[VISAP] Tear down the art exhibition space,2022-10-21,8:00,10:30,todo,,2.50
+1399,4,[Moderator] Natural Language Interaction,2022-10-21,8:45,10:15,todo,,1.50
+1400,4,[Moderator] Visual Analytics of Health Data,2022-10-21,8:45,10:15,todo,,1.50
+1401,4,[Moderator] Spatial Data,2022-10-21,8:45,10:15,todo,,1.50
+1402,4,[Moderator] Comparisons,2022-10-21,8:45,10:15,todo,,1.50
+1403,4,[Moderator] Application Papers: How should we deal with them?,2022-10-21,8:45,10:15,todo,,1.50
+1404,4,[Moderator] Is This (Panel) Good Enough for IEEE VIS?,2022-10-21,8:45,10:15,todo,,1.50
+1405,4,[In-Person] Natural Language Interaction,2022-10-21,8:45,10:15,todo,,1.50
+1406,4,[In-Person] Visual Analytics of Health Data,2022-10-21,8:45,10:15,todo,,1.50
+1407,4,[In-Person] Spatial Data,2022-10-21,8:45,10:15,todo,,1.50
+1408,4,[In-Person] Comparisons,2022-10-21,8:45,10:15,todo,,1.50
+1409,4,[In-Person] Application Papers: How should we deal with them?,2022-10-21,8:45,10:15,todo,,1.50
+1410,4,[In-Person] Is This (Panel) Good Enough for IEEE VIS?,2022-10-21,8:45,10:15,todo,,1.50
+1411,5,Standbys,2022-10-21,8:45,10:15,todo,,1.50
+1412,5,Standbys,2022-10-21,8:45,10:15,todo,,1.50
+1413,4,[Moderator] VIS Capstone / VIS Closing,2022-10-21,10:30,12:00,todo,,1.50
+1414,4,[In-Person] VIS Capstone / VIS Closing,2022-10-21,10:30,12:00,todo,,1.50
+1415,4,[In-Person] VIS Capstone / VIS Closing,2022-10-21,10:30,12:00,todo,,1.50
+1416,5,Standbys,2022-10-21,10:30,12:00,todo,,1.50
+1417,5,Standbys,2022-10-21,10:30,12:00,todo,,1.50
+1418,3,Pack up the VISKids room,2022-10-21,12:15,13:00,todo,,0.75

@@ -1,0 +1,353 @@
+code,code-note,category,desc,location,date,starttime,endtime,duration,username,role,desc_alone
+1001,1001,1,[Captains] Pre-conference tasks,Slack and Discord,2021-10-23,8:00,18:00,10:00:00,kun-ting.chen@monash.edu,[Captains] ,Pre-conference tasks
+1002,1002,1,[Captains] Sunday morning,Slack and Discord,2021-10-24,7:45,12:00,4:15:00,theo.jaunet.sio@gmail.com,[Captains] ,Sunday morning
+1003,1003,1,[Captains] Sunday afternoon,Slack and Discord,2021-10-24,12:00,15:30,3:30:00,angelos.chatzimparmpas@lnu.se,[Captains] ,Sunday afternoon
+1004,1004,1,[Captains] Monday morning,Slack and Discord,2021-10-25,7:45,12:00,4:15:00,ghulamjilani@usf.edu,[Captains] ,Monday morning
+1005,1005,1,[Captains] Monday afternoon,Slack and Discord,2021-10-25,12:00,15:30,3:30:00,keke.wu@colorado.edu,[Captains] ,Monday afternoon
+1006,1006,1,[Captains] Tuesday morning,Slack and Discord,2021-10-26,7:20,11:30,4:10:00,mhograefer@cs.au.dk,[Captains] ,Tuesday morning
+1007,1007,1,[Captains] Tuesday afternoon,Slack and Discord,2021-10-26,11:30,15:30,4:00:00,keke.wu@colorado.edu,[Captains] ,Tuesday afternoon
+1008,1008,1,[Captains] Wednesday morning,Slack and Discord,2021-10-27,7:20,11:30,4:10:00,theo.jaunet.sio@gmail.com,[Captains] ,Wednesday morning
+1009,1009,1,[Captains] Wednesday afternoon,Slack and Discord,2021-10-27,11:30,15:30,4:00:00,ghulamjilani@usf.edu,[Captains] ,Wednesday afternoon
+1010,1010,1,[Captains] Thursday morning,Slack and Discord,2021-10-28,7:20,11:30,4:10:00,angelos.chatzimparmpas@lnu.se,[Captains] ,Thursday morning
+1011,1011,1,[Captains] Thursday afternoon,Slack and Discord,2021-10-28,11:30,15:30,4:00:00,ghulamjilani@usf.edu,[Captains] ,Thursday afternoon
+1012,1012,1,[Captains] Friday morning,Slack and Discord,2021-10-29,7:45,13:30,5:45:00,mhograefer@cs.au.dk,[Captains] ,Friday morning
+2001,2001,2,[Preconference] Create Trello board,,2021-09-10,8:00,10:30,2:30:00,gionnievelim@gmail.com,[Preconference] ,Create Trello board
+2002,2002,2,[Preconference] Review FF videos,,2021-10-23,8:00,19:00,11:00:00,sboorboor@cs.stonybrook.edu,[Preconference] ,Review FF videos
+2003,2003,2,[Preconference] Review FF videos,,2021-10-23,8:00,18:00,10:00:00,alyxanderbur@umass.edu,[Preconference] ,Review FF videos
+2004,2004,2,[Preconference] Review FF videos,,2021-10-23,8:00,22:00,14:00:00,xwangeg@cse.ust.hk,[Preconference] ,Review FF videos
+2005,2005,2,[Preconference] Review FF videos,,2021-10-23,8:00,18:00,10:00:00,kajalpuri95@gmail.com,[Preconference] ,Review FF videos
+2006,2006,2,[Preconference] Review FF videos,,2021-10-23,8:00,18:00,10:00:00,shivam.agarwal@paluno.uni-due.de,[Preconference] ,Review FF videos
+2007,2007,2,[Preconference] Review FF videos,,2021-10-23,8:00,18:00,10:00:00,chen.10183@buckeyemail.osu.edu,[Preconference] ,Review FF videos
+2008,2008,2,[Preconference] Review FF videos,,2021-10-23,8:00,18:00,10:00:00,asif.alaul@gmail.com,[Preconference] ,Review FF videos
+2009,2009,2,[Preconference] Review FF videos,,2021-10-23,8:00,20:30,12:30:00,molina@uni-bremen.de,[Preconference] ,Review FF videos
+2010,2010,2,[Preconference] Review full presentation videos,,2021-10-23,8:00,19:00,11:00:00,bkale@niu.edu,[Preconference] ,Review full presentation videos
+2011,2011,2,[Preconference] Review full presentation videos,,2021-10-23,8:00,13:00,5:00:00,wootton.dylan@gmail.com,[Preconference] ,Review full presentation videos
+2012,2012,2,[Preconference] Review full presentation videos,,2021-10-23,8:00,15:15,7:15:00,cflori3@uic.edu,[Preconference] ,Review full presentation videos
+2013,2013,2,[Preconference] Review full presentation videos,,2021-10-23,8:00,15:30,7:30:00,yiwen.xing@kcl.ac.uk,[Preconference] ,Review full presentation videos
+2014,2014,2,[Preconference] Review full presentation videos,,2021-10-23,8:00,17:00,9:00:00,sarah.schoettler@ed.ac.uk,[Preconference] ,Review full presentation videos
+2015,2015,2,[Preconference] Review full presentation videos,,2021-10-23,8:00,14:30,6:30:00,mohitsharma@iisc.ac.in,[Preconference] ,Review full presentation videos
+2016,2016,2,[Preconference] Review full presentation videos,,2021-10-23,8:00,18:15,10:15:00,wangzezhong2016@gmail.com,[Preconference] ,Review full presentation videos
+2017,2017,2,[Preconference] Review full presentation videos,,2021-10-23,8:00,14:15,6:15:00,ssraba2@uic.edu,[Preconference] ,Review full presentation videos
+2018,2018,2,[Preconference] Review full presentation videos,,2021-10-23,8:00,16:00,8:00:00,yilinx2@illinois.edu,[Preconference] ,Review full presentation videos
+2019,2019,2,[Preconference] Review full presentation videos,,2021-10-23,8:00,16:00,8:00:00,vb4ztv@virginia.edu,[Preconference] ,Review full presentation videos
+2020,2020,2,[Preconference] Review full presentation videos,,2021-10-23,8:00,18:00,10:00:00,Hbako@umd.edu,[Preconference] ,Review full presentation videos
+2021,2021,2,[Preconference] Help with Gathertown design,,2021-10-23,8:00,18:30,10:30:00,clicoris@tulane.edu,[Preconference] ,Help with Gathertown design
+2022,2022,2,[Preconference] Help with Gathertown design,,2021-10-23,8:00,17:00,9:00:00,yqin2@tulane.edu,[Preconference] ,Help with Gathertown design
+3001,1,3,[Tech] VDS,Zoom and Tech Website,2021-10-24,7:45,9:50,2:05:00,,[Tech] ,VDS
+3002,2,3,[Tech] VDS,Zoom and Tech Website,2021-10-24,9:45,11:50,2:05:00,,[Tech] ,VDS
+4003,3,4,[Moderator] VDS,Discord and Slido,2021-10-24,7:45,9:30,1:45:00,,[Moderator] ,VDS
+4004,4,4,[Moderator] VDS,Discord and Slido,2021-10-24,9:45,11:30,1:45:00,,[Moderator] ,VDS
+3005,5,3,[Tech]VAST Challenge,Zoom and Tech Website,2021-10-24,11:45,13:50,2:05:00,,[Tech],VAST Challenge
+3006,6,3,[Tech]VAST Challenge,Zoom and Tech Website,2021-10-24,13:45,15:50,2:05:00,,[Tech],VAST Challenge
+4007,7,4,[Moderator] VAST Challenge,Discord and Slido,2021-10-24,11:45,13:30,1:45:00,,[Moderator] ,VAST Challenge
+4008,8,4,[Moderator] VAST Challenge,Discord and Slido,2021-10-24,13:30,15:15,1:45:00,,[Moderator] ,VAST Challenge
+3009,9,3,[Tech]VAHC: Introduction,Zoom and Tech Website,2021-10-24,7:45,9:50,2:05:00,,[Tech],VAHC: Introduction
+3010,10,3,[Tech]VAHC: Clinical and Medical Decision Making,Zoom and Tech Website,2021-10-24,9:45,11:50,2:05:00,,[Tech],VAHC: Clinical and Medical Decision Making
+3011,11,3,[Tech]VAHC: COVID19,Zoom and Tech Website,2021-10-24,11:45,13:50,2:05:00,,[Tech],VAHC: COVID19
+3012,12,3,[Tech]VAHC: Panel,Zoom and Tech Website,2021-10-24,13:45,15:50,2:05:00,,[Tech],VAHC: Panel
+4013,13,4,[Moderator] VAHC: Introduction,Discord and Slido,2021-10-24,7:45,9:30,1:45:00,,[Moderator] ,VAHC: Introduction
+4014,14,4,[Moderator] VAHC: Clinical and Medical Decision Making,Discord and Slido,2021-10-24,9:45,11:30,1:45:00,,[Moderator] ,VAHC: Clinical and Medical Decision Making
+4015,15,4,[Moderator] VAHC: COVID19,Discord and Slido,2021-10-24,11:45,13:30,1:45:00,,[Moderator] ,VAHC: COVID19
+4016,16,4,[Moderator] VAHC: Panel,Discord and Slido,2021-10-24,13:45,15:30,1:45:00,,[Moderator] ,VAHC: Panel
+3017,17,3,[Tech]VIS4DH: Opening and keynote,Zoom and Tech Website,2021-10-24,7:45,9:50,2:05:00,,[Tech],VIS4DH: Opening and keynote
+3018,18,3,[Tech]VIS4DH: Papers and provocations,Zoom and Tech Website,2021-10-24,9:45,11:50,2:05:00,,[Tech],VIS4DH: Papers and provocations
+3019,19,3,[Tech]VIS4DH: Lab talks and capstone,Zoom and Tech Website,2021-10-24,11:45,13:50,2:05:00,,[Tech],VIS4DH: Lab talks and capstone
+3020,20,3,[Tech]VIS4DH: Papers and provocations II,Zoom and Tech Website,2021-10-24,13:45,15:50,2:05:00,,[Tech],VIS4DH: Papers and provocations II
+4021,21,4,[Moderator] VIS4DH: Opening and keynote,Discord and Slido,2021-10-24,7:45,9:30,1:45:00,,[Moderator] ,VIS4DH: Opening and keynote
+4022,22,4,[Moderator] VIS4DH: Papers and provocations,Discord and Slido,2021-10-24,9:45,11:30,1:45:00,,[Moderator] ,VIS4DH: Papers and provocations
+4023,23,4,[Moderator] VIS4DH: Lab talks and capstone,Discord and Slido,2021-10-24,11:45,13:30,1:45:00,,[Moderator] ,VIS4DH: Lab talks and capstone
+4024,24,4,[Moderator] VIS4DH: Papers and provocations II,Discord and Slido,2021-10-24,13:45,15:30,1:45:00,,[Moderator] ,VIS4DH: Papers and provocations II
+3025,25,3,[Tech]Workshop: Exploring Opportunities and Challenges for Natural LanguageTechniques to Support Visual Analysis Tasks,Zoom and Tech Website,2021-10-24,7:45,9:50,2:05:00,,[Tech],Workshop: Exploring Opportunities and Challenges for Natural LanguageTechniques to Support Visual Analysis Tasks
+3026,26,3,[Tech]Workshop: Exploring Opportunities and Challenges for Natural LanguageTechniques to Support Visual Analysis Tasks,Zoom and Tech Website,2021-10-24,9:45,11:50,2:05:00,,[Tech],Workshop: Exploring Opportunities and Challenges for Natural LanguageTechniques to Support Visual Analysis Tasks
+4027,27,4,[Moderator] Workshop: Exploring Opportunities and Challenges for Natural LanguageTechniques to Support Visual Analysis Tasks,Discord and Slido,2021-10-24,7:45,9:30,1:45:00,,[Moderator] ,Workshop: Exploring Opportunities and Challenges for Natural LanguageTechniques to Support Visual Analysis Tasks
+4028,28,4,[Moderator] Workshop: Exploring Opportunities and Challenges for Natural LanguageTechniques to Support Visual Analysis Tasks,Discord and Slido,2021-10-24,9:45,11:30,1:45:00,,[Moderator] ,Workshop: Exploring Opportunities and Challenges for Natural LanguageTechniques to Support Visual Analysis Tasks
+3029,29,3,[Tech]Workshop: alt.VIS,Zoom and Tech Website,2021-10-24,11:45,13:50,2:05:00,,[Tech],Workshop: alt.VIS
+3030,30,3,[Tech]Workshop: alt.VIS,Zoom and Tech Website,2021-10-24,13:45,15:50,2:05:00,,[Tech],Workshop: alt.VIS
+4031,31,4,[Moderator] Workshop: alt.VIS,Discord and Slido,2021-10-24,11:45,13:30,1:45:00,,[Moderator] ,Workshop: alt.VIS
+4032,32,4,[Moderator] Workshop: alt.VIS,Discord and Slido,2021-10-24,13:45,15:30,1:45:00,,[Moderator] ,Workshop: alt.VIS
+3033,33,3,[Tech]Workshop: TREX: TRust and EXpertise in Visualization,Zoom and Tech Website,2021-10-24,7:45,9:50,2:05:00,,[Tech],Workshop: TREX: TRust and EXpertise in Visualization
+3034,34,3,[Tech]Workshop: TREX: TRust and EXpertise in Visualization,Zoom and Tech Website,2021-10-24,9:45,11:50,2:05:00,,[Tech],Workshop: TREX: TRust and EXpertise in Visualization
+4035,35,4,[Moderator] Workshop: TREX: TRust and EXpertise in Visualization,Discord and Slido,2021-10-24,7:45,9:30,1:45:00,,[Moderator] ,Workshop: TREX: TRust and EXpertise in Visualization
+4036,36,4,[Moderator] Workshop: TREX: TRust and EXpertise in Visualization,Discord and Slido,2021-10-24,9:45,11:30,1:45:00,,[Moderator] ,Workshop: TREX: TRust and EXpertise in Visualization
+3037,37,3,[Tech]Workshop: MLUI 2021: Machine Learning from User Interaction for Visualization and Analytics,Zoom and Tech Website,2021-10-24,11:45,13:50,2:05:00,,[Tech],Workshop: MLUI 2021: Machine Learning from User Interaction for Visualization and Analytics
+3038,38,3,[Tech]Workshop: MLUI 2021: Machine Learning from User Interaction for Visualization and Analytics,Zoom and Tech Website,2021-10-24,13:45,15:50,2:05:00,,[Tech],Workshop: MLUI 2021: Machine Learning from User Interaction for Visualization and Analytics
+4039,39,4,[Moderator] Workshop: MLUI 2021: Machine Learning from User Interaction for Visualization and Analytics,Discord and Slido,2021-10-24,11:45,13:30,1:45:00,,[Moderator] ,Workshop: MLUI 2021: Machine Learning from User Interaction for Visualization and Analytics
+4040,40,4,[Moderator] Workshop: MLUI 2021: Machine Learning from User Interaction for Visualization and Analytics,Discord and Slido,2021-10-24,13:45,15:30,1:45:00,,[Moderator] ,Workshop: MLUI 2021: Machine Learning from User Interaction for Visualization and Analytics
+3041,41,3,[Tech]Tutorial: Color Matters in Visualization,Zoom and Tech Website,2021-10-24,7:45,9:50,2:05:00,,[Tech],Tutorial: Color Matters in Visualization
+3042,42,3,[Tech]Tutorial: Color Matters in Visualization,Zoom and Tech Website,2021-10-24,9:45,11:50,2:05:00,,[Tech],Tutorial: Color Matters in Visualization
+4043,43,4,[Moderator] Tutorial: Color Matters in Visualization,Discord and Slido,2021-10-24,7:45,9:30,1:45:00,,[Moderator] ,Tutorial: Color Matters in Visualization
+4044,44,4,[Moderator] Tutorial: Color Matters in Visualization,Discord and Slido,2021-10-24,9:45,11:30,1:45:00,,[Moderator] ,Tutorial: Color Matters in Visualization
+3045,45,3,[Tech]Workshop: Human-Data Interaction,Zoom and Tech Website,2021-10-24,11:45,13:50,2:05:00,,[Tech],Workshop: Human-Data Interaction
+3046,46,3,[Tech]Workshop: Human-Data Interaction,Zoom and Tech Website,2021-10-24,13:45,15:50,2:05:00,,[Tech],Workshop: Human-Data Interaction
+4047,47,4,[Moderator] Workshop: Human-Data Interaction,Discord and Slido,2021-10-24,11:45,13:30,1:45:00,,[Moderator] ,Workshop: Human-Data Interaction
+4048,48,4,[Moderator] Workshop: Human-Data Interaction,Discord and Slido,2021-10-24,13:45,15:30,1:45:00,,[Moderator] ,Workshop: Human-Data Interaction
+3049,49,3,[Tech]Tutorial: Topological Analysis of Ensemble Scalar Data with TTK,Zoom and Tech Website,2021-10-24,7:45,9:50,2:05:00,,[Tech],Tutorial: Topological Analysis of Ensemble Scalar Data with TTK
+3050,50,3,[Tech]Tutorial: Topological Analysis of Ensemble Scalar Data with TTK,Zoom and Tech Website,2021-10-24,9:45,11:50,2:05:00,,[Tech],Tutorial: Topological Analysis of Ensemble Scalar Data with TTK
+4051,51,4,[Moderator] Tutorial: Topological Analysis of Ensemble Scalar Data with TTK,Discord and Slido,2021-10-24,7:45,9:30,1:45:00,,[Moderator] ,Tutorial: Topological Analysis of Ensemble Scalar Data with TTK
+4052,52,4,[Moderator] Tutorial: Topological Analysis of Ensemble Scalar Data with TTK,Discord and Slido,2021-10-24,9:45,11:30,1:45:00,,[Moderator] ,Tutorial: Topological Analysis of Ensemble Scalar Data with TTK
+3053,53,3,[Tech]Workshop: Visualization for Communication (VisComm),Zoom and Tech Website,2021-10-24,11:45,13:50,2:05:00,,[Tech],Workshop: Visualization for Communication (VisComm)
+3054,54,3,[Tech]Workshop: Visualization for Communication (VisComm),Zoom and Tech Website,2021-10-24,13:45,15:50,2:05:00,,[Tech],Workshop: Visualization for Communication (VisComm)
+4055,55,4,[Moderator] Workshop: Visualization for Communication (VisComm),Discord and Slido,2021-10-24,11:45,13:30,1:45:00,,[Moderator] ,Workshop: Visualization for Communication (VisComm)
+4056,56,4,[Moderator] Workshop: Visualization for Communication (VisComm),Discord and Slido,2021-10-24,13:45,15:30,1:45:00,,[Moderator] ,Workshop: Visualization for Communication (VisComm)
+3057,57,3,[Tech]Tutorial: Visualization Analysis and Design,Zoom and Tech Website,2021-10-24,7:45,9:50,2:05:00,,[Tech],Tutorial: Visualization Analysis and Design
+3058,58,3,[Tech]Tutorial: Visualization Analysis and Design,Zoom and Tech Website,2021-10-24,9:45,11:50,2:05:00,,[Tech],Tutorial: Visualization Analysis and Design
+3059,59,3,[Tech]Tutorial: Visualization Analysis and Design,Zoom and Tech Website,2021-10-24,11:45,13:50,2:05:00,,[Tech],Tutorial: Visualization Analysis and Design
+3060,60,3,[Tech]Tutorial: Visualization Analysis and Design,Zoom and Tech Website,2021-10-24,13:45,15:50,2:05:00,,[Tech],Tutorial: Visualization Analysis and Design
+4061,61,4,[Moderator] Tutorial: Visualization Analysis and Design,Discord and Slido,2021-10-24,7:45,9:30,1:45:00,,[Moderator] ,Tutorial: Visualization Analysis and Design
+4062,62,4,[Moderator] Tutorial: Visualization Analysis and Design,Discord and Slido,2021-10-24,9:45,11:30,1:45:00,,[Moderator] ,Tutorial: Visualization Analysis and Design
+4063,63,4,[Moderator] Tutorial: Visualization Analysis and Design,Discord and Slido,2021-10-24,11:45,13:30,1:45:00,,[Moderator] ,Tutorial: Visualization Analysis and Design
+4064,64,4,[Moderator] Tutorial: Visualization Analysis and Design,Discord and Slido,2021-10-24,13:45,15:30,1:45:00,,[Moderator] ,Tutorial: Visualization Analysis and Design
+6065,65,6,[Moderator] Helpdesk Gathertown,Gathertown,2021-10-24,7:45,9:50,2:05:00,,[Moderator] ,Helpdesk Gathertown
+6066,66,6,[Moderator] Helpdesk Gathertown,Gathertown,2021-10-24,9:45,11:50,2:05:00,,[Moderator] ,Helpdesk Gathertown
+6067,67,6,[Moderator] Helpdesk Gathertown,Gathertown,2021-10-24,11:45,13:50,2:05:00,,[Moderator] ,Helpdesk Gathertown
+6068,68,6,[Moderator] Helpdesk Gathertown,Gathertown,2021-10-24,13:45,15:30,1:45:00,,[Moderator] ,Helpdesk Gathertown
+3069,69,3,[Tech]LDAV: keynote and best paper,Zoom and Tech Website,2021-10-25,7:45,9:50,2:05:00,,[Tech],LDAV: keynote and best paper
+3070,70,3,[Tech]LDAV: algorithms,Zoom and Tech Website,2021-10-25,9:45,11:50,2:05:00,,[Tech],LDAV: algorithms
+3071,71,3,[Tech]LDAV: render,Zoom and Tech Website,2021-10-25,11:45,13:50,2:05:00,,[Tech],LDAV: render
+3072,72,3,[Tech]LDAV: early career research talk and others,Zoom and Tech Website,2021-10-25,13:45,15:50,2:05:00,,[Tech],LDAV: early career research talk and others
+4073,73,4,[Moderator] LDAV: keynote and best paper,Discord and Slido,2021-10-25,7:45,9:30,1:45:00,,[Moderator] ,LDAV: keynote and best paper
+4074,74,4,[Moderator] LDAV: algorithms,Discord and Slido,2021-10-25,9:45,11:30,1:45:00,,[Moderator] ,LDAV: algorithms
+4075,75,4,[Moderator] LDAV: render,Discord and Slido,2021-10-25,11:45,13:30,1:45:00,,[Moderator] ,LDAV: render
+4076,76,4,[Moderator] LDAV: early career research talk and others,Discord and Slido,2021-10-25,13:45,15:30,1:45:00,,[Moderator] ,LDAV: early career research talk and others
+3077,77,3,[Tech]VisInPractice: panel industry and academia,Zoom and Tech Website,2021-10-25,7:45,9:50,2:05:00,,[Tech],VisInPractice: panel industry and academia
+3078,78,3,[Tech]VisInPractice: panel tools of the trade,Zoom and Tech Website,2021-10-25,9:45,11:50,2:05:00,,[Tech],VisInPractice: panel tools of the trade
+3079,79,3,[Tech]VisInPractice: panel practitioner collaborations,Zoom and Tech Website,2021-10-25,11:45,13:50,2:05:00,,[Tech],VisInPractice: panel practitioner collaborations
+3080,80,3,[Tech]VisInPractice: panel writing about vis,Zoom and Tech Website,2021-10-25,13:45,15:50,2:05:00,,[Tech],VisInPractice: panel writing about vis
+4081,81,4,[Moderator] VisInPractice: panel industry and academia,Discord and Slido,2021-10-25,7:45,9:30,1:45:00,,[Moderator] ,VisInPractice: panel industry and academia
+4082,82,4,[Moderator] VisInPractice: panel tools of the trade,Discord and Slido,2021-10-25,9:45,11:30,1:45:00,,[Moderator] ,VisInPractice: panel tools of the trade
+4083,83,4,[Moderator] VisInPractice: panel practitioner collaborations,Discord and Slido,2021-10-25,11:45,13:30,1:45:00,,[Moderator] ,VisInPractice: panel practitioner collaborations
+4084,84,4,[Moderator] VisInPractice: panel writing about vis,Discord and Slido,2021-10-25,13:45,15:30,1:45:00,,[Moderator] ,VisInPractice: panel writing about vis
+3085,85,3,[Tech]BioVis Challenge,Zoom and Tech Website,2021-10-25,7:45,9:50,2:05:00,,[Tech],BioVis Challenge
+3086,86,3,[Tech]BioVis Challenge,Zoom and Tech Website,2021-10-25,9:45,11:50,2:05:00,,[Tech],BioVis Challenge
+4087,87,4,[Moderator] BioVis Challenge,Discord and Slido,2021-10-25,7:45,9:30,1:45:00,,[Moderator] ,BioVis Challenge
+4088,88,4,[Moderator] BioVis Challenge,Discord and Slido,2021-10-25,9:45,11:30,1:45:00,,[Moderator] ,BioVis Challenge
+3089,89,3,[Tech]VISxAI,Zoom and Tech Website,2021-10-25,11:45,13:50,2:05:00,,[Tech],VISxAI
+3090,90,3,[Tech]VISxAI,Zoom and Tech Website,2021-10-25,13:45,15:50,2:05:00,,[Tech],VISxAI
+4091,91,4,[Moderator] VISxAI,Discord and Slido,2021-10-25,11:45,13:30,1:45:00,,[Moderator] ,VISxAI
+4092,92,4,[Moderator] VISxAI,Discord and Slido,2021-10-25,13:45,15:30,1:45:00,,[Moderator] ,VISxAI
+3093,93,3,"[Tech]Workshop: Data Vis Activities to Facilitate Learning, Reflecting, Discussing and Designing",Zoom and Tech Website,2021-10-25,7:45,9:50,2:05:00,,[Tech],"Workshop: Data Vis Activities to Facilitate Learning, Reflecting, Discussing and Designing"
+3094,94,3,"[Tech]Workshop: Data Vis Activities to Facilitate Learning, Reflecting, Discussing and Designing",Zoom and Tech Website,2021-10-25,9:45,11:50,2:05:00,,[Tech],"Workshop: Data Vis Activities to Facilitate Learning, Reflecting, Discussing and Designing"
+3095,95,3,"[Tech]Workshop: Data Vis Activities to Facilitate Learning, Reflecting, Discussing and Designing",Zoom and Tech Website,2021-10-25,11:45,13:50,2:05:00,,[Tech],"Workshop: Data Vis Activities to Facilitate Learning, Reflecting, Discussing and Designing"
+3096,96,3,"[Tech]Workshop: Data Vis Activities to Facilitate Learning, Reflecting, Discussing and Designing",Zoom and Tech Website,2021-10-25,13:45,15:50,2:05:00,,[Tech],"Workshop: Data Vis Activities to Facilitate Learning, Reflecting, Discussing and Designing"
+4097,97,4,"[Moderator] Workshop: Data Vis Activities to Facilitate Learning, Reflecting, Discussing and Designing",Discord and Slido,2021-10-25,7:45,9:30,1:45:00,,[Moderator] ,"Workshop: Data Vis Activities to Facilitate Learning, Reflecting, Discussing and Designing"
+4098,98,4,"[Moderator] Workshop: Data Vis Activities to Facilitate Learning, Reflecting, Discussing and Designing",Discord and Slido,2021-10-25,9:45,11:30,1:45:00,,[Moderator] ,"Workshop: Data Vis Activities to Facilitate Learning, Reflecting, Discussing and Designing"
+4099,99,4,"[Moderator] Workshop: Data Vis Activities to Facilitate Learning, Reflecting, Discussing and Designing",Discord and Slido,2021-10-25,11:45,13:30,1:45:00,,[Moderator] ,"Workshop: Data Vis Activities to Facilitate Learning, Reflecting, Discussing and Designing"
+4100,100,4,"[Moderator] Workshop: Data Vis Activities to Facilitate Learning, Reflecting, Discussing and Designing",Discord and Slido,2021-10-25,13:45,15:30,1:45:00,,[Moderator] ,"Workshop: Data Vis Activities to Facilitate Learning, Reflecting, Discussing and Designing"
+3101,101,3,[Tech]Workshop: VisXVision,Zoom and Tech Website,2021-10-25,7:45,9:50,2:05:00,,[Tech],Workshop: VisXVision
+3102,102,3,[Tech]Workshop: VisXVision,Zoom and Tech Website,2021-10-25,9:45,11:50,2:05:00,,[Tech],Workshop: VisXVision
+4103,103,4,[Moderator] Workshop: VisXVision,Discord and Slido,2021-10-25,7:45,9:30,1:45:00,,[Moderator] ,Workshop: VisXVision
+4104,104,4,[Moderator] Workshop: VisXVision,Discord and Slido,2021-10-25,9:45,11:30,1:45:00,,[Moderator] ,Workshop: VisXVision
+3105,105,3,[Tech]Workshop: Audio-Visual Analytics – Towards a Research Agenda for Integrating Sonification and Visualization,Zoom and Tech Website,2021-10-25,11:45,13:50,2:05:00,,[Tech],Workshop: Audio-Visual Analytics – Towards a Research Agenda for Integrating Sonification and Visualization
+3106,106,3,[Tech]Workshop: Audio-Visual Analytics – Towards a Research Agenda for Integrating Sonification and Visualization,Zoom and Tech Website,2021-10-25,13:45,15:50,2:05:00,,[Tech],Workshop: Audio-Visual Analytics – Towards a Research Agenda for Integrating Sonification and Visualization
+4107,107,4,[Moderator] Workshop: Audio-Visual Analytics – Towards a Research Agenda for Integrating Sonification and Visualization,Discord and Slido,2021-10-25,11:45,13:30,1:45:00,,[Moderator] ,Workshop: Audio-Visual Analytics – Towards a Research Agenda for Integrating Sonification and Visualization
+4108,108,4,[Moderator] Workshop: Audio-Visual Analytics – Towards a Research Agenda for Integrating Sonification and Visualization,Discord and Slido,2021-10-25,13:45,15:30,1:45:00,,[Moderator] ,Workshop: Audio-Visual Analytics – Towards a Research Agenda for Integrating Sonification and Visualization
+3109,109,3,[Tech]Workshop: Visualization for Social Good,Zoom and Tech Website,2021-10-25,7:45,9:50,2:05:00,,[Tech],Workshop: Visualization for Social Good
+3110,110,3,[Tech]Workshop: Visualization for Social Good,Zoom and Tech Website,2021-10-25,9:45,11:50,2:05:00,,[Tech],Workshop: Visualization for Social Good
+4111,111,4,[Moderator] Workshop: Visualization for Social Good,Discord and Slido,2021-10-25,7:45,9:30,1:45:00,,[Moderator] ,Workshop: Visualization for Social Good
+4112,112,4,[Moderator] Workshop: Visualization for Social Good,Discord and Slido,2021-10-25,9:45,11:30,1:45:00,,[Moderator] ,Workshop: Visualization for Social Good
+3113,113,3,[Tech]Tutorial: IEEE VIS Full Paper Review Model and Process: Becoming a (Better) Program Committee Member,Zoom and Tech Website,2021-10-25,11:45,13:50,2:05:00,,[Tech],Tutorial: IEEE VIS Full Paper Review Model and Process: Becoming a (Better) Program Committee Member
+3114,114,3,[Tech]Tutorial: IEEE VIS Full Paper Review Model and Process: Becoming a (Better) Program Committee Member,Zoom and Tech Website,2021-10-25,13:45,15:50,2:05:00,,[Tech],Tutorial: IEEE VIS Full Paper Review Model and Process: Becoming a (Better) Program Committee Member
+4115,115,4,[Moderator] Tutorial: IEEE VIS Full Paper Review Model and Process: Becoming a (Better) Program Committee Member,Discord and Slido,2021-10-25,11:45,13:30,1:45:00,,[Moderator] ,Tutorial: IEEE VIS Full Paper Review Model and Process: Becoming a (Better) Program Committee Member
+4116,116,4,[Moderator] Tutorial: IEEE VIS Full Paper Review Model and Process: Becoming a (Better) Program Committee Member,Discord and Slido,2021-10-25,13:45,15:30,1:45:00,,[Moderator] ,Tutorial: IEEE VIS Full Paper Review Model and Process: Becoming a (Better) Program Committee Member
+3117,117,3,[Tech]Tutorial: User-Centred Evaluation in Visualization,Zoom and Tech Website,2021-10-25,7:45,9:50,2:05:00,,[Tech],Tutorial: User-Centred Evaluation in Visualization
+3118,118,3,[Tech]Tutorial: User-Centred Evaluation in Visualization,Zoom and Tech Website,2021-10-25,9:45,11:50,2:05:00,,[Tech],Tutorial: User-Centred Evaluation in Visualization
+4119,119,4,[Moderator] Tutorial: User-Centred Evaluation in Visualization,Discord and Slido,2021-10-25,7:45,9:30,1:45:00,,[Moderator] ,Tutorial: User-Centred Evaluation in Visualization
+4120,120,4,[Moderator] Tutorial: User-Centred Evaluation in Visualization,Discord and Slido,2021-10-25,9:45,11:30,1:45:00,,[Moderator] ,Tutorial: User-Centred Evaluation in Visualization
+3121,121,3,[Tech]Tutorial: Riemannian Geometry for Scientific Visualization,Zoom and Tech Website,2021-10-25,11:45,13:50,2:05:00,,[Tech],Tutorial: Riemannian Geometry for Scientific Visualization
+3122,122,3,[Tech]Tutorial: Riemannian Geometry for Scientific Visualization,Zoom and Tech Website,2021-10-25,13:45,15:50,2:05:00,,[Tech],Tutorial: Riemannian Geometry for Scientific Visualization
+4123,123,4,[Moderator] Tutorial: Riemannian Geometry for Scientific Visualization,Discord and Slido,2021-10-25,11:45,13:30,1:45:00,,[Moderator] ,Tutorial: Riemannian Geometry for Scientific Visualization
+4124,124,4,[Moderator] Tutorial: Riemannian Geometry for Scientific Visualization,Discord and Slido,2021-10-25,13:45,15:30,1:45:00,,[Moderator] ,Tutorial: Riemannian Geometry for Scientific Visualization
+3125,125,3,[Tech]Tutorial: Observable: Quick and effective visualization prototyping with reactive notebooks,Zoom and Tech Website,2021-10-25,7:45,9:50,2:05:00,,[Tech],Tutorial: Observable: Quick and effective visualization prototyping with reactive notebooks
+3126,126,3,[Tech]Tutorial: Observable: Quick and effective visualization prototyping with reactive notebooks,Zoom and Tech Website,2021-10-25,9:45,11:50,2:05:00,,[Tech],Tutorial: Observable: Quick and effective visualization prototyping with reactive notebooks
+3127,127,3,[Tech]Tutorial: Observable: Quick and effective visualization prototyping with reactive notebooks,Zoom and Tech Website,2021-10-25,11:45,13:50,2:05:00,,[Tech],Tutorial: Observable: Quick and effective visualization prototyping with reactive notebooks
+3128,128,3,[Tech]Tutorial: Observable: Quick and effective visualization prototyping with reactive notebooks,Zoom and Tech Website,2021-10-25,13:45,15:50,2:05:00,,[Tech],Tutorial: Observable: Quick and effective visualization prototyping with reactive notebooks
+4129,129,4,[Moderator] Tutorial: Observable: Quick and effective visualization prototyping with reactive notebooks,Discord and Slido,2021-10-25,7:45,9:30,1:45:00,,[Moderator] ,Tutorial: Observable: Quick and effective visualization prototyping with reactive notebooks
+4130,130,4,[Moderator] Tutorial: Observable: Quick and effective visualization prototyping with reactive notebooks,Discord and Slido,2021-10-25,9:45,11:30,1:45:00,,[Moderator] ,Tutorial: Observable: Quick and effective visualization prototyping with reactive notebooks
+4131,131,4,[Moderator] Tutorial: Observable: Quick and effective visualization prototyping with reactive notebooks,Discord and Slido,2021-10-25,11:45,13:30,1:45:00,,[Moderator] ,Tutorial: Observable: Quick and effective visualization prototyping with reactive notebooks
+4132,132,4,[Moderator] Tutorial: Observable: Quick and effective visualization prototyping with reactive notebooks,Discord and Slido,2021-10-25,13:45,15:30,1:45:00,,[Moderator] ,Tutorial: Observable: Quick and effective visualization prototyping with reactive notebooks
+6133,133,6,[Moderator] Helpdesk Gathertown,Gathertown,2021-10-25,7:45,9:45,2:00:00,,[Moderator] ,Helpdesk Gathertown
+6134,134,6,[Moderator] Helpdesk Gathertown,Gathertown,2021-10-25,9:45,11:45,2:00:00,,[Moderator] ,Helpdesk Gathertown
+6135,135,6,[Moderator] Helpdesk Gathertown,Gathertown,2021-10-25,11:45,13:45,2:00:00,,[Moderator] ,Helpdesk Gathertown
+6136,136,6,[Moderator] Helpdesk Gathertown,Gathertown,2021-10-25,13:45,15:30,1:45:00,,[Moderator] ,Helpdesk Gathertown
+4137,137,4,[Moderator] VIS Welcome + VGTC and TOT Awards,Discord and Slido,2021-10-26,7:15,9:30,2:15:00,,[Moderator] ,VIS Welcome + VGTC and TOT Awards
+4138,138,4,[Moderator] Best Paper Session,Discord and Slido,2021-10-26,9:45,11:30,1:45:00,,[Moderator] ,Best Paper Session
+4139,139,4,[Moderator] Keynote + Full & Short Papers openings,Discord and Slido,2021-10-26,11:45,13:30,1:45:00,,[Moderator] ,Keynote + Full & Short Papers openings
+6140,140,6,[Moderator] Helpdesk Gathertown,Gathertown,2021-10-26,7:45,9:45,2:00:00,,[Moderator] ,Helpdesk Gathertown
+6141,141,6,[Moderator] Helpdesk Gathertown,Gathertown,2021-10-26,9:45,11:45,2:00:00,,[Moderator] ,Helpdesk Gathertown
+6142,142,6,[Moderator] Helpdesk Gathertown,Gathertown,2021-10-26,11:45,13:30,1:45:00,,[Moderator] ,Helpdesk Gathertown
+4143,143,4,[Moderator] Memorial Session,Zoom ?,2021-10-26,20:00,20:01,0:01:00,,[Moderator] ,Memorial Session
+3144,144,3,[Tech]VISAP Opening Event,Zoom and Tech Website,2021-10-27,13:45,15:45,2:00:00,,[Tech],VISAP Opening Event
+4145,145,4,[Moderator] VISAP Opening Event,Zoom and Tech Website,2021-10-26,13:45,15:30,1:45:00,,[Moderator] ,VISAP Opening Event
+3146,146,3,[Tech]Explainable AI and Machine Learning,Zoom and Tech Website,2021-10-27,7:45,9:50,2:05:00,,[Tech],Explainable AI and Machine Learning
+4147,147,4,[Moderator] Explainable AI and Machine Learning,Discord and Slido,2021-10-27,7:45,9:30,1:45:00,,[Moderator] ,Explainable AI and Machine Learning
+3148,148,3,[Tech]Perspectives and Reflections,Zoom and Tech Website,2021-10-27,9:45,11:50,2:05:00,,[Tech],Perspectives and Reflections
+4149,149,4,[Moderator] Perspectives and Reflections,Discord and Slido,2021-10-27,9:45,11:30,1:45:00,,[Moderator] ,Perspectives and Reflections
+3150,150,3,[Tech]Recommendation and Automation,Zoom and Tech Website,2021-10-27,11:45,13:50,2:05:00,,[Tech],Recommendation and Automation
+4151,151,4,[Moderator] Recommendation and Automation,Discord and Slido,2021-10-27,11:45,13:30,1:45:00,,[Moderator] ,Recommendation and Automation
+3152,152,3,[Tech]Interaction,Zoom and Tech Website,2021-10-27,7:45,9:50,2:05:00,,[Tech],Interaction
+4153,153,4,[Moderator] Interaction,Discord and Slido,2021-10-27,7:45,9:30,1:45:00,,[Moderator] ,Interaction
+3154,154,3,[Tech]Decision Making,Zoom and Tech Website,2021-10-27,9:45,11:50,2:05:00,,[Tech],Decision Making
+4155,155,4,[Moderator] Decision Making,Discord and Slido,2021-10-27,9:45,11:30,1:45:00,,[Moderator] ,Decision Making
+3156,156,3,"[Tech]Immersive Environments, Personal Vis and Dashboards",Zoom and Tech Website,2021-10-27,11:45,13:50,2:05:00,,[Tech],"Immersive Environments, Personal Vis and Dashboards"
+4157,157,4,"[Moderator] Immersive Environments, Personal Vis and Dashboards",Discord and Slido,2021-10-27,11:45,13:30,1:45:00,,[Moderator] ,"Immersive Environments, Personal Vis and Dashboards"
+3158,158,3,[Tech]Surface and Volumes,Zoom and Tech Website,2021-10-27,7:45,9:50,2:05:00,,[Tech],Surface and Volumes
+4159,159,4,[Moderator] Surface and Volumes,Discord and Slido,2021-10-27,7:45,9:30,1:45:00,,[Moderator] ,Surface and Volumes
+3160,160,3,[Tech]Multiview and Visual Environments,Zoom and Tech Website,2021-10-27,9:45,11:50,2:05:00,,[Tech],Multiview and Visual Environments
+4161,161,4,[Moderator] Multiview and Visual Environments,Discord and Slido,2021-10-27,9:45,11:30,1:45:00,,[Moderator] ,Multiview and Visual Environments
+3162,162,3,[Tech]Multi-Dimensional Data,Zoom and Tech Website,2021-10-27,11:45,13:50,2:05:00,,[Tech],Multi-Dimensional Data
+4163,163,4,[Moderator] Multi-Dimensional Data,Discord and Slido,2021-10-27,11:45,13:30,1:45:00,,[Moderator] ,Multi-Dimensional Data
+3164,164,3,[Tech]Graphical Perception and Coloring,Zoom and Tech Website,2021-10-27,7:45,9:50,2:05:00,,[Tech],Graphical Perception and Coloring
+4165,165,4,[Moderator] Graphical Perception and Coloring,Discord and Slido,2021-10-27,7:45,9:30,1:45:00,,[Moderator] ,Graphical Perception and Coloring
+3166,166,3,[Tech]CG&A - Data Physicalization,Zoom and Tech Website,2021-10-27,9:45,11:50,2:05:00,,[Tech],CG&A - Data Physicalization
+4167,167,4,[Moderator] CG&A - Data Physicalization,Discord and Slido,2021-10-27,9:45,11:30,1:45:00,,[Moderator] ,CG&A - Data Physicalization
+3168,168,3,"[Tech]CG&A - Visualizing big issues: culture, climate change and communities",Zoom and Tech Website,2021-10-27,11:45,13:50,2:05:00,,[Tech],"CG&A - Visualizing big issues: culture, climate change and communities"
+4169,169,4,"[Moderator] CG&A - Visualizing big issues: culture, climate change and communities",Discord and Slido,2021-10-27,11:45,13:30,1:45:00,,[Moderator] ,"CG&A - Visualizing big issues: culture, climate change and communities"
+3170,170,3,"[Tech]Social sciences, software tools, journalism, and storytelling",Zoom and Tech Website,2021-10-27,7:45,9:50,2:05:00,,[Tech],"Social sciences, software tools, journalism, and storytelling"
+4171,171,4,"[Moderator] Social sciences, software tools, journalism, and storytelling",Discord and Slido,2021-10-27,7:45,9:30,1:45:00,,[Moderator] ,"Social sciences, software tools, journalism, and storytelling"
+3172,172,3,[Tech]AI+VIS,Zoom and Tech Website,2021-10-27,9:45,11:50,2:05:00,,[Tech],AI+VIS
+4173,173,4,[Moderator] AI+VIS,Discord and Slido,2021-10-27,9:45,11:30,1:45:00,,[Moderator] ,AI+VIS
+3174,174,3,[Tech]In Situ Inference: advanced data science for space weather modeling,Zoom and Tech Website,2021-10-27,11:45,13:50,2:05:00,,[Tech],In Situ Inference: advanced data science for space weather modeling
+4175,175,4,[Moderator] In Situ Inference: advanced data science for space weather modeling,Discord and Slido,2021-10-27,11:45,13:30,1:45:00,,[Moderator] ,In Situ Inference: advanced data science for space weather modeling
+3176,176,3,"[Tech]Panel: Wait, when did we sign up to be economists?",Zoom and Tech Website,2021-10-27,7:45,9:50,2:05:00,,[Tech],"Panel: Wait, when did we sign up to be economists?"
+4177,177,4,"[Moderator] Panel: Wait, when did we sign up to be economists?",Discord and Slido,2021-10-27,7:45,9:30,1:45:00,,[Moderator] ,"Panel: Wait, when did we sign up to be economists?"
+3178,178,3,[Tech]Panel: What is the role of VIS in combating COVID-19?,Zoom and Tech Website,2021-10-27,9:45,11:50,2:05:00,,[Tech],Panel: What is the role of VIS in combating COVID-19?
+4179,179,4,[Moderator] Panel: What is the role of VIS in combating COVID-19?,Discord and Slido,2021-10-27,9:45,11:30,1:45:00,,[Moderator] ,Panel: What is the role of VIS in combating COVID-19?
+3180,180,3,[Tech]VISAP Session 1,Zoom and Tech Website,2021-10-27,11:45,13:50,2:05:00,,[Tech],VISAP Session 1
+4181,181,4,[Moderator] VISAP Session 1,Discord and Slido,2021-10-27,11:45,13:30,1:45:00,,[Moderator] ,VISAP Session 1
+3182,182,3,[Tech]VizSec,Zoom and Tech Website,2021-10-27,7:45,9:50,2:05:00,,[Tech],VizSec
+3183,183,3,[Tech]VizSec,Zoom and Tech Website,2021-10-27,9:45,11:50,2:05:00,,[Tech],VizSec
+3184,184,3,[Tech]VizSec,Zoom and Tech Website,2021-10-27,11:45,13:50,2:05:00,,[Tech],VizSec
+4185,185,4,[Moderator] VizSec,Discord and Slido,2021-10-27,7:45,9:30,1:45:00,,[Moderator] ,VizSec
+4186,186,4,[Moderator] VizSec,Discord and Slido,2021-10-27,9:45,11:30,1:45:00,,[Moderator] ,VizSec
+4187,187,4,[Moderator] VizSec,Discord and Slido,2021-10-27,11:45,13:30,1:45:00,,[Moderator] ,VizSec
+3188,188,3,[Tech]Industrial Keynote # 1,Zoom and Tech Website,2021-10-27,9:25,10:00,0:35:00,,[Tech],Industrial Keynote # 1
+6189,189,6,[Moderator] Helpdesk Gathertown,Gathertown,2021-10-27,7:45,9:50,2:05:00,,[Moderator] ,Helpdesk Gathertown
+6190,190,6,[Moderator] Helpdesk Gathertown,Gathertown,2021-10-27,9:45,11:50,2:05:00,,[Moderator] ,Helpdesk Gathertown
+6191,191,6,[Moderator] Helpdesk Gathertown,Gathertown,2021-10-27,11:45,13:30,1:45:00,,[Moderator] ,Helpdesk Gathertown
+3192,192,3,[Tech]Supporter Forum,TBD,2021-10-27,13:15,14:20,1:05:00,,[Tech],Supporter Forum
+6193,193,6,[Moderator] Helpdesk Gathertown,Gathertown,2021-10-27,13:45,15:30,1:45:00,,[Moderator] ,Helpdesk Gathertown
+3194,194,3,[Tech]Satellite Shotouts #1,TBD,2021-10-28,7:15,8:00,0:45:00,,[Tech],Satellite Shotouts #1
+3195,195,3,"[Tech]Sports, Commerce, and Social Media",Zoom and Tech Website,2021-10-28,7:45,9:50,2:05:00,,[Tech],"Sports, Commerce, and Social Media"
+4196,196,4,"[Moderator] Sports, Commerce, and Social Media",Discord and Slido,2021-10-28,7:45,9:30,1:45:00,,[Moderator] ,"Sports, Commerce, and Social Media"
+3197,197,3,[Tech]Grammar and Learning,Zoom and Tech Website,2021-10-28,9:45,11:50,2:05:00,,[Tech],Grammar and Learning
+4198,198,4,[Moderator] Grammar and Learning,Discord and Slido,2021-10-28,9:45,11:30,1:45:00,,[Moderator] ,Grammar and Learning
+3199,199,3,[Tech]Time Series and Events,Zoom and Tech Website,2021-10-28,11:45,13:50,2:05:00,,[Tech],Time Series and Events
+4200,200,4,[Moderator] Time Series and Events,Discord and Slido,2021-10-28,11:45,13:30,1:45:00,,[Moderator] ,Time Series and Events
+3201,201,3,[Tech]Studies and Evaluation Methodology,Zoom and Tech Website,2021-10-28,7:45,9:50,2:05:00,,[Tech],Studies and Evaluation Methodology
+4202,202,4,[Moderator] Studies and Evaluation Methodology,Discord and Slido,2021-10-28,7:45,9:30,1:45:00,,[Moderator] ,Studies and Evaluation Methodology
+3203,203,3,"[Tech]Autonomous Driving, Urban and Spatiotemporal Data",Zoom and Tech Website,2021-10-28,9:45,11:50,2:05:00,,[Tech],"Autonomous Driving, Urban and Spatiotemporal Data"
+4204,204,4,"[Moderator] Autonomous Driving, Urban and Spatiotemporal Data",Discord and Slido,2021-10-28,9:45,11:30,1:45:00,,[Moderator] ,"Autonomous Driving, Urban and Spatiotemporal Data"
+3205,205,3,[Tech]Graph and Trees,Zoom and Tech Website,2021-10-28,11:45,13:50,2:05:00,,[Tech],Graph and Trees
+4206,206,4,[Moderator] Graph and Trees,Discord and Slido,2021-10-28,11:45,13:30,1:45:00,,[Moderator] ,Graph and Trees
+3207,207,3,[Tech]Accessible Visualization and Natural Language,Zoom and Tech Website,2021-10-28,7:45,9:50,2:05:00,,[Tech],Accessible Visualization and Natural Language
+4208,208,4,[Moderator] Accessible Visualization and Natural Language,Discord and Slido,2021-10-28,7:45,9:30,1:45:00,,[Moderator] ,Accessible Visualization and Natural Language
+3209,209,3,[Tech]Scalability and Rendering,Zoom and Tech Website,2021-10-28,9:45,11:50,2:05:00,,[Tech],Scalability and Rendering
+4210,210,4,[Moderator] Scalability and Rendering,Discord and Slido,2021-10-28,9:45,11:30,1:45:00,,[Moderator] ,Scalability and Rendering
+3211,211,3,[Tech]Mitigating Bias,Zoom and Tech Website,2021-10-28,11:45,13:50,2:05:00,,[Tech],Mitigating Bias
+4212,212,4,[Moderator] Mitigating Bias,Discord and Slido,2021-10-28,11:45,13:30,1:45:00,,[Moderator] ,Mitigating Bias
+3213,213,3,"[Tech]Flow, Topology and Fields",Zoom and Tech Website,2021-10-28,7:45,9:50,2:05:00,,[Tech],"Flow, Topology and Fields"
+4214,214,4,"[Moderator] Flow, Topology and Fields",Discord and Slido,2021-10-28,7:45,9:30,1:45:00,,[Moderator] ,"Flow, Topology and Fields"
+3215,215,3,"[Tech]Graphs, Charts and Perception",Zoom and Tech Website,2021-10-28,9:45,11:50,2:05:00,,[Tech],"Graphs, Charts and Perception"
+4216,216,4,"[Moderator] Graphs, Charts and Perception",Discord and Slido,2021-10-28,9:45,11:30,1:45:00,,[Moderator] ,"Graphs, Charts and Perception"
+3217,217,3,[Tech]Applications,Zoom and Tech Website,2021-10-28,11:45,13:50,2:05:00,,[Tech],Applications
+4218,218,4,[Moderator] Applications,Discord and Slido,2021-10-28,11:45,13:30,1:45:00,,[Moderator] ,Applications
+3219,219,3,[Tech]Bridging Visualization with Radiation Oncology,Zoom and Tech Website,2021-10-28,7:45,9:50,2:05:00,,[Tech],Bridging Visualization with Radiation Oncology
+4220,220,4,[Moderator] Bridging Visualization with Radiation Oncology,Discord and Slido,2021-10-28,7:45,9:30,1:45:00,,[Moderator] ,Bridging Visualization with Radiation Oncology
+3221,221,3,[Tech]Challenges for Visualization in Immersive Planetarium Domes,Zoom and Tech Website,2021-10-28,9:45,11:50,2:05:00,,[Tech],Challenges for Visualization in Immersive Planetarium Domes
+4222,222,4,[Moderator] Challenges for Visualization in Immersive Planetarium Domes,Discord and Slido,2021-10-28,9:45,11:30,1:45:00,,[Moderator] ,Challenges for Visualization in Immersive Planetarium Domes
+3223,223,3,[Tech]SciVisContest,Zoom and Tech Website,2021-10-28,11:45,13:50,2:05:00,,[Tech],SciVisContest
+4224,224,4,[Moderator] SciVisContest,Discord and Slido,2021-10-28,11:45,13:30,1:45:00,,[Moderator] ,SciVisContest
+3225,225,3,[Tech]Panel: Our History and Future Innovation,Zoom and Tech Website,2021-10-28,7:45,9:50,2:05:00,,[Tech],Panel: Our History and Future Innovation
+4226,226,4,[Moderator] Panel: Our History and Future Innovation,Discord and Slido,2021-10-28,7:45,9:30,1:45:00,,[Moderator] ,Panel: Our History and Future Innovation
+3227,227,3,[Tech]Panel: Towards Accessible Data Representations,Zoom and Tech Website,2021-10-28,9:45,11:50,2:05:00,,[Tech],Panel: Towards Accessible Data Representations
+4228,228,4,[Moderator] Panel: Towards Accessible Data Representations,Discord and Slido,2021-10-28,9:45,11:30,1:45:00,,[Moderator] ,Panel: Towards Accessible Data Representations
+3229,229,3,[Tech]VISAP Session 2,Zoom and Tech Website,2021-10-28,11:45,13:50,2:05:00,,[Tech],VISAP Session 2
+4230,230,4,[Moderator] VISAP Session 2,Discord and Slido,2021-10-28,11:45,13:30,1:45:00,,[Moderator] ,VISAP Session 2
+3231,231,3,[Tech]Industrial Keynote # 2,Zoom and Tech Website,2021-10-28,9:25,10:00,0:35:00,,[Tech],Industrial Keynote # 2
+6232,232,6,[Moderator] Helpdesk Gathertown,Gathertown,2021-10-28,7:45,9:50,2:05:00,,[Moderator] ,Helpdesk Gathertown
+6233,233,6,[Moderator] Helpdesk Gathertown,Gathertown,2021-10-28,9:45,11:50,2:05:00,,[Moderator] ,Helpdesk Gathertown
+6234,234,6,[Moderator] Helpdesk Gathertown,Gathertown,2021-10-28,11:45,13:30,1:45:00,,[Moderator] ,Helpdesk Gathertown
+3235,235,3,[Tech]VIS 2022 Kickoff Meeting,Zoom and Tech Website,2021-10-28,13:15,14:20,1:05:00,,[Tech],VIS 2022 Kickoff Meeting
+4236,236,4,[Moderator] VIS 2022 Kickoff Meeting,Discord and Slido,2021-10-28,13:15,14:00,0:45:00,,[Moderator] ,VIS 2022 Kickoff Meeting
+3237,237,3,[Tech]VIS Townhall,Discord and Slido,2021-10-28,13:45,15:50,2:05:00,,[Tech],VIS Townhall
+3238,238,3,[Tech]Student Mentorship Session,Zoom and Tech Website,2021-10-28,13:45,15:20,1:35:00,,[Tech],Student Mentorship Session
+4239,239,4,[Moderator] Student Mentorship Session,Discord and Slido,2021-10-28,13:45,15:00,1:15:00,,[Moderator] ,Student Mentorship Session
+3240,240,3,[Tech]Satellite Shotouts #2,TBD,2021-10-29,7:15,8:00,0:45:00,,[Tech],Satellite Shotouts #2
+3241,241,3,[Tech]Data-Driven Communication and Storytelling,Zoom and Tech Website,2021-10-29,7:45,9:50,2:05:00,,[Tech],Data-Driven Communication and Storytelling
+4242,242,4,[Moderator] Data-Driven Communication and Storytelling,Discord and Slido,2021-10-29,7:45,9:30,1:45:00,,[Moderator] ,Data-Driven Communication and Storytelling
+3243,243,3,[Tech]Model Evaluation,Zoom and Tech Website,2021-10-29,9:45,11:50,2:05:00,,[Tech],Model Evaluation
+4244,244,4,[Moderator] Model Evaluation,Discord and Slido,2021-10-29,9:45,11:30,1:45:00,,[Moderator] ,Model Evaluation
+3245,245,3,[Tech]Glyphs and Sets,Zoom and Tech Website,2021-10-29,7:45,9:50,2:05:00,,[Tech],Glyphs and Sets
+4246,246,4,[Moderator] Glyphs and Sets,Discord and Slido,2021-10-29,7:45,9:30,1:45:00,,[Moderator] ,Glyphs and Sets
+3247,247,3,[Tech]Biological and Medical Visualization,Zoom and Tech Website,2021-10-29,9:45,11:50,2:05:00,,[Tech],Biological and Medical Visualization
+4248,248,4,[Moderator] Biological and Medical Visualization,Discord and Slido,2021-10-29,9:45,11:30,1:45:00,,[Moderator] ,Biological and Medical Visualization
+3249,249,3,[Tech]Uncertainty  ,Zoom and Tech Website,2021-10-29,7:45,9:50,2:05:00,,[Tech],Uncertainty  
+4250,250,4,[Moderator] Uncertainty  ,Discord and Slido,2021-10-29,7:45,9:30,1:45:00,,[Moderator] ,Uncertainty  
+3251,251,3,[Tech]Efficient Representation and Layout,Zoom and Tech Website,2021-10-29,9:45,11:50,2:05:00,,[Tech],Efficient Representation and Layout
+4252,252,4,[Moderator] Efficient Representation and Layout,Discord and Slido,2021-10-29,9:45,11:30,1:45:00,,[Moderator] ,Efficient Representation and Layout
+3253,253,3,"[Tech]Mathematics, Topology and Rendering",Zoom and Tech Website,2021-10-29,7:45,9:50,2:05:00,,[Tech],"Mathematics, Topology and Rendering"
+4254,254,4,"[Moderator] Mathematics, Topology and Rendering",Discord and Slido,2021-10-29,7:45,9:30,1:45:00,,[Moderator] ,"Mathematics, Topology and Rendering"
+3255,255,3,[Tech]SIGGRAPH Invited Talks,Zoom and Tech Website,2021-10-29,9:45,11:50,2:05:00,,[Tech],SIGGRAPH Invited Talks
+4256,256,4,[Moderator] SIGGRAPH Invited Talks,Discord and Slido,2021-10-29,9:45,11:30,1:45:00,,[Moderator] ,SIGGRAPH Invited Talks
+3257,257,3,[Tech]Uncertainty-aware visual analytics in applications - Towards a systematic approach,Zoom and Tech Website,2021-10-29,7:45,9:50,2:05:00,,[Tech],Uncertainty-aware visual analytics in applications - Towards a systematic approach
+4258,258,4,[Moderator] Uncertainty-aware visual analytics in applications - Towards a systematic approach,Discord and Slido,2021-10-29,7:45,9:30,1:45:00,,[Moderator] ,Uncertainty-aware visual analytics in applications - Towards a systematic approach
+3259,259,3,[Tech]Visualization Challenges in Deep Uncertainty,Zoom and Tech Website,2021-10-29,9:45,11:50,2:05:00,,[Tech],Visualization Challenges in Deep Uncertainty
+4260,260,4,[Moderator] Visualization Challenges in Deep Uncertainty,Discord and Slido,2021-10-29,9:45,11:30,1:45:00,,[Moderator] ,Visualization Challenges in Deep Uncertainty
+3261,261,3,[Tech]Panel: Visualization Literacy for General Audiences - Can we make a difference?,Zoom and Tech Website,2021-10-29,7:45,9:50,2:05:00,,[Tech],Panel: Visualization Literacy for General Audiences - Can we make a difference?
+4262,262,4,[Moderator] Panel: Visualization Literacy for General Audiences - Can we make a difference?,Discord and Slido,2021-10-29,7:45,9:30,1:45:00,,[Moderator] ,Panel: Visualization Literacy for General Audiences - Can we make a difference?
+3263,263,3,[Tech]Panel: Navigating interdisciplinary careers in visualization,Zoom and Tech Website,2021-10-29,9:45,11:50,2:05:00,,[Tech],Panel: Navigating interdisciplinary careers in visualization
+4264,264,4,[Moderator] Panel: Navigating interdisciplinary careers in visualization,Discord and Slido,2021-10-29,9:45,11:30,1:45:00,,[Moderator] ,Panel: Navigating interdisciplinary careers in visualization
+4265,265,4,[Moderator] VIS Capstone & Closing,Discord and Slido,2021-10-29,11:45,13:30,1:45:00,,[Moderator] ,VIS Capstone & Closing
+4266,266,4,[Moderator] Meetup [Zoom] Better Online Presentations,Zoom,2021-10-26,13:45,15:30,1:45:00,,[Moderator] ,Meetup [Zoom] Better Online Presentations
+4267,267,4,[Moderator] Meetup [Zoom] VisLies,Zoom,2021-10-26,14:45,16:30,1:45:00,,[Moderator] ,Meetup [Zoom] VisLies
+4268,268,4,[Moderator] Meetup [Zoom] Gender Representation and Diversity at IEEE VIS,Zoom,2021-10-27,13:45,15:30,1:45:00,,[Moderator] ,Meetup [Zoom] Gender Representation and Diversity at IEEE VIS
+4269,269,4,[Moderator] Meetup [Zoom] Climate Change AI meets VIS Community,Zoom,2021-10-28,13:45,15:30,1:45:00,,[Moderator] ,Meetup [Zoom] Climate Change AI meets VIS Community
+4270,270,4,[Moderator] Meetup [Gathertown] VisBuddies,Gathertown,2021-10-26,13:45,15:30,1:45:00,,[Moderator] ,Meetup [Gathertown] VisBuddies
+4271,271,4,[Moderator] Meetup [Gathertown] Job Fair,Gathertown,2021-10-28,14:45,16:00,1:15:00,,[Moderator] ,Meetup [Gathertown] Job Fair
+4272,272,4,[Moderator] Meetup [Zoom] VisComm,Zoom,2021-10-27,13:45,15:30,1:45:00,,[Moderator] ,Meetup [Zoom] VisComm
+5001,5001,5,Standbys,Slack and Discord,2021-10-24,7:45,9:45,2:00:00,,,Standbys
+5002,5002,5,Standbys,Slack and Discord,2021-10-24,9:45,11:45,2:00:00,,,Standbys
+5003,5003,5,Standbys,Slack and Discord,2021-10-24,8:00,10:00,2,11:45,13:45,2:00:00,,,Standbys
+5004,5004,5,Standbys,Slack and Discord,2021-10-24,8:00,10:00,2,13:45,15:30,1:45:00,,,Standbys
+5005,5005,5,Standbys,Slack and Discord,2021-10-25,7:45,9:45,2:00:00,,,Standbys
+5006,5006,5,Standbys,Slack and Discord,2021-10-25,9:45,11:45,2:00:00,,,Standbys
+5007,5007,5,Standbys,Slack and Discord,2021-10-25,11:45,13:45,2:00:00,,,Standbys
+5008,5008,5,Standbys,Slack and Discord,2021-10-25,13:45,15:30,1:45:00,,,Standbys
+5009,5009,5,Standbys,Slack and Discord,2021-10-26,7:45,9:45,2:00:00,,,Standbys
+5010,5010,5,Standbys,Slack and Discord,2021-10-26,9:45,11:45,2:00:00,,,Standbys
+5011,5011,5,Standbys,Slack and Discord,2021-10-26,11:45,13:45,2:00:00,,,Standbys
+5012,5012,5,Standbys,Slack and Discord,2021-10-26,13:45,15:30,1:45:00,,,Standbys
+5013,5013,5,Standbys,Slack and Discord,2021-10-27,7:45,9:45,2:00:00,,,Standbys
+5014,5014,5,Standbys,Slack and Discord,2021-10-27,9:45,11:45,2:00:00,,,Standbys
+5015,5015,5,Standbys,Slack and Discord,2021-10-27,11:45,13:45,2:00:00,,,Standbys
+5016,5016,5,Standbys,Slack and Discord,2021-10-27,13:45,15:30,1:45:00,,,Standbys
+5017,5017,5,Standbys,Slack and Discord,2021-10-28,7:45,9:45,2:00:00,,,Standbys
+5018,5018,5,Standbys,Slack and Discord,2021-10-28,9:45,11:45,2:00:00,,,Standbys
+5019,5019,5,Standbys,Slack and Discord,2021-10-28,11:45,13:45,2:00:00,,,Standbys
+5020,5020,5,Standbys,Slack and Discord,2021-10-28,13:45,15:30,1:45:00,,,Standbys
+5021,5021,5,Standbys,Slack and Discord,2021-10-29,7:45,9:45,2:00:00,,,Standbys
+5022,5022,5,Standbys,Slack and Discord,2021-10-29,9:45,11:45,2:00:00,,,Standbys
+5023,5023,5,Standbys,Slack and Discord,2021-10-29,11:45,13:50,2:05:00,,,Standbys
+5024,5024,5,Standbys,Slack and Discord,2021-10-24,7:45,9:45,2:00:00,,,Standbys
+5025,5025,5,Standbys,Slack and Discord,2021-10-24,9:45,11:45,2:00:00,,,Standbys
+5026,5026,5,Standbys,Slack and Discord,2021-10-24,8:00,10:00,2,11:45,13:50,2:05:00,,,Standbys
+5027,5027,5,Standbys,Slack and Discord,2021-10-24,8:00,10:00,2,13:45,15:30,1:45:00,,,Standbys
+5028,5028,5,Standbys,Slack and Discord,2021-10-25,7:45,9:45,2:00:00,,,Standbys
+5029,5029,5,Standbys,Slack and Discord,2021-10-25,9:45,11:45,2:00:00,,,Standbys
+5030,5030,5,Standbys,Slack and Discord,2021-10-25,11:45,13:45,2:00:00,,,Standbys
+5031,5031,5,Standbys,Slack and Discord,2021-10-25,13:45,15:30,1:45:00,,,Standbys
+5032,5032,5,Standbys,Slack and Discord,2021-10-26,7:45,9:45,2:00:00,,,Standbys
+5033,5033,5,Standbys,Slack and Discord,2021-10-26,9:45,11:45,2:00:00,,,Standbys
+5034,5034,5,Standbys,Slack and Discord,2021-10-26,11:45,13:45,2:00:00,,,Standbys
+5035,5035,5,Standbys,Slack and Discord,2021-10-26,13:45,15:30,1:45:00,,,Standbys
+5036,5036,5,Standbys,Slack and Discord,2021-10-27,7:45,9:45,2:00:00,,,Standbys
+5037,5037,5,Standbys,Slack and Discord,2021-10-27,9:45,11:45,2:00:00,,,Standbys
+5038,5038,5,Standbys,Slack and Discord,2021-10-27,11:45,13:45,2:00:00,,,Standbys
+5039,5039,5,Standbys,Slack and Discord,2021-10-27,13:45,15:30,1:45:00,,,Standbys
+5040,5040,5,Standbys,Slack and Discord,2021-10-28,7:45,9:45,2:00:00,,,Standbys
+5041,5041,5,Standbys,Slack and Discord,2021-10-28,9:45,11:45,2:00:00,,,Standbys
+5042,5042,5,Standbys,Slack and Discord,2021-10-28,11:45,13:45,2:00:00,,,Standbys
+5043,5043,5,Standbys,Slack and Discord,2021-10-28,13:45,15:30,1:45:00,,,Standbys
+5044,5044,5,Standbys,Slack and Discord,2021-10-29,7:45,9:45,2:00:00,,,Standbys
+5045,5045,5,Standbys,Slack and Discord,2021-10-29,9:45,11:45,2:00:00,,,Standbys
+5046,5046,5,Standbys,Slack and Discord,2021-10-29,11:45,13:45,2:00:00,,,Standbys
