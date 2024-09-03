@@ -1,9 +1,9 @@
-from django.conf.urls import url
+from django.urls import path
 from taskselection import views
 
 urlpatterns = [
-  url(r'^available_tasks/$', views.AvailableTaskList.as_view()),
-  url(r'^selected_tasks/$', views.SelectedTaskList.as_view()),
-  url(r'^select_task/(?P<code>[0-9]+)$', views.SelectTask.as_view())
+  path('available_tasks/', views.AvailableTaskList.as_view()),
+  path('selected_tasks/', views.SelectedTaskList.as_view()),
+  path('select_task/<code>', views.SelectTask.as_view()),
 ]
 
