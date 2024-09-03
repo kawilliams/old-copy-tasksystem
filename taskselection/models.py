@@ -11,7 +11,7 @@ class Task(models.Model):
     starttime = models.TimeField()
     endtime = models.TimeField()
     _is_sticky = models.BooleanField(default=False, db_column="is_sticky")
-    sv = models.ForeignKey(User, null=True)
+    sv = models.ForeignKey(User, null=True, on_delete=models.SET_NULL)
     category = models.IntegerField(default=0)
 
     @property
