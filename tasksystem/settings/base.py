@@ -31,12 +31,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'corsheaders.middleware.CorsMiddleware', #9/3/24 was 'corsheaders'
+    'corsheaders', #9/3/24 was 'corsheaders'
     'rest_framework',
     'channels',
     'rest_framework.authtoken',
-    'django.middleware.csrf.CsrfViewMiddleware', #9/3/24 added
-    'corsheaders.middleware.CorsPostCsrfMiddleware', #9/3/24 added
     'taskselection.apps.TaskselectionConfig',
 ]
 
