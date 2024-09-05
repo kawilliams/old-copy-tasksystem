@@ -30,7 +30,7 @@ SECRET_KEY = os.environ['SECRET_KEY']
 # CORS settings
 #CORS_ORIGIN_ALLOW_ALL = True
 #CORS_ALLOW_ALL_ORIGINS = True
-CORS_ALLOWED_ORIGINS = ['http://vissv.org', 'http://localhost', 'http://127.0.0.1', '54.201.77.132', '159.127.104.69']
+CORS_ALLOWED_ORIGINS = ['http://vissv.org', 'http://localhost', 'http://127.0.0.1']
                         
 #CORS_REPLACE_HTTPS_REFERER = True #deprecated
 CORS_ALLOW_CREDENTIALS = True
