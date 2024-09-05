@@ -10,8 +10,20 @@ if os.environ.get('LOCK_TASKS', 'false').lower() == 'true':
 else:
     LOCK_TASKSELECTION = False
 
-db_from_env = dj_database_url.config(conn_max_age=500)
-DATABASES['default'] = db_from_env
+# db_from_env = dj_database_url.config(conn_max_age=500)
+# DATABASES['default'] = db_from_env
+DATABASES = {
+    'default' : {
+    'ENGINE': 'django.db.backends.mysql',
+    'NAME': 'vissv_db',
+    'USER': 'visweeksvchairs',
+    'PASSWORD': 'SVs@visweek2023',
+    'ATOMIC_REQUESTS': True,
+    'HOST': '127.0.0.1',
+    'PORT': '3306',
+    }
+}
+
 
 ALLOWED_HOSTS = ['old-copy-tasksystem.herokuapp.com']
 
@@ -30,7 +42,7 @@ SECRET_KEY = os.environ['SECRET_KEY']
 # CORS settings
 #CORS_ORIGIN_ALLOW_ALL = True
 #CORS_ALLOW_ALL_ORIGINS = True
-CORS_ALLOWED_ORIGINS = ['http://vissv.org', 'http://localhost', 'http://127.0.0.1']
+CORS_ALLOWED_ORIGINS = ['http://vissv.org', 'http://localhost', 'http://127.0.0.1', 'http://54.201.77.132']
                         
 #CORS_REPLACE_HTTPS_REFERER = True #deprecated
 CORS_ALLOW_CREDENTIALS = True
