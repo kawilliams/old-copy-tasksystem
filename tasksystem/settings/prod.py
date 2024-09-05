@@ -10,19 +10,19 @@ if os.environ.get('LOCK_TASKS', 'false').lower() == 'true':
 else:
     LOCK_TASKSELECTION = False
 
-# db_from_env = dj_database_url.config(conn_max_age=500)
-# DATABASES['default'] = db_from_env
-DATABASES = {
-    'default' : {
-    'ENGINE': 'django.db.backends.mysql',
-    'NAME': 'vissv_db',
-    'USER': 'visweeksvchairs',
-    'PASSWORD': 'SVs@visweek2023',
-    'ATOMIC_REQUESTS': True,
-    'HOST': '127.0.0.1',
-    'PORT': '3306',
-    }
-}
+db_from_env = dj_database_url.config(conn_max_age=500)
+DATABASES['default'] = db_from_env
+# DATABASES = {
+#     'default' : {
+#     'ENGINE': 'django.db.backends.mysql',
+#     'NAME': 'vissv_db',
+#     'USER': 'visweeksvchairs',
+#     'PASSWORD': 'SVs@visweek2023',
+#     'ATOMIC_REQUESTS': True,
+#     'HOST': '127.0.0.1',
+#     'PORT': '3306',
+#     }
+# }
 
 
 ALLOWED_HOSTS = ['old-copy-tasksystem.herokuapp.com']
