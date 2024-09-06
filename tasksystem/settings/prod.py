@@ -33,7 +33,7 @@ CHANNEL_LAYERS['default'] = {
     "CONFIG": {
         "hosts": [os.environ.get('REDIS_URL', 'redis://localhost:6379')],
     },
-    "ROUTING": "taskselection.routing.channel_routing",
+    #"ROUTING": "taskselection.routing.channel_routing", #No longer needed?
 }
 
 SECRET_KEY = os.environ['SECRET_KEY']
