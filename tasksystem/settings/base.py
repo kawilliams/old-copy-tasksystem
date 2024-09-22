@@ -23,28 +23,28 @@ ALLOWED_HOSTS = []
 
 
 # Application definition
-
 INSTALLED_APPS = [
+    'daphne',
+    'taskselection',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'corsheaders', #9/3/24 was 'corsheaders'
+    #'corsheaders', #9/3/24 was 'corsheaders'
     'rest_framework',
-    'channels',
-    'rest_framework.authtoken',
-    'taskselection.apps.TaskselectionConfig',
+    #'channels',
+    #'rest_framework.authtoken',
 ]
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
-    'corsheaders.middleware.CorsMiddleware',
+    #'corsheaders.middleware.CorsMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
-    'corsheaders.middleware.CorsPostCsrfMiddleware',
+    #'corsheaders.middleware.CorsPostCsrfMiddleware', #don't need
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
@@ -67,8 +67,6 @@ TEMPLATES = [
         },
     },
 ]
-
-WSGI_APPLICATION = 'tasksystem.wsgi.application'
 
 
 # Database
@@ -97,21 +95,28 @@ AUTH_PASSWORD_VALIDATORS = [
 ]
 
 # REST framework settings
+# REST_FRAMEWORK = {
+#   # 'DEFAULT_AUTHENTICATION_CLASSES': (
+#   #   'rest_framework.authentication.TokenAuthentication',
+#   # ),
+#   # 'DEFAULT_PERMISSION_CLASSES': (
+#   #   'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly', #IsAuthenticated',
+#   # ),
+#   # # throttle settings
+#   # 'DEFAULT_THROTTLE_CLASSES': (
+#   #   'rest_framework.throttling.UserRateThrottle',
+#   # ),
+#   # 'DEFAULT_THROTTLE_RATES': {
+#   #   'user': '5/second',
+#   # }
+# }
 REST_FRAMEWORK = {
-  'DEFAULT_AUTHENTICATION_CLASSES': (
-    'rest_framework.authentication.TokenAuthentication',
-  ),
-  'DEFAULT_PERMISSION_CLASSES': (
-    'rest_framework.permissions.IsAuthenticated',
-  ),
-  # throttle settings
-  'DEFAULT_THROTTLE_CLASSES': (
-    'rest_framework.throttling.UserRateThrottle',
-  ),
-  'DEFAULT_THROTTLE_RATES': {
-    'user': '5/second',
-  }
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
+    'PAGE_SIZE': 10
 }
+
+WSGI_APPLICATION = 'tasksystem.wsgi.application'
+ASGI_APPLICATION = 'tasksystem.asgi.application'
 
 # Websockets
 CHANNEL_LAYERS = {
@@ -140,3 +145,5 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = (
     os.path.join(BASE_DIR, 'static'),
 )
+
+

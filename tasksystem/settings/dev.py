@@ -13,6 +13,10 @@ else:
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'p#$hm-6n0^c6f6iuf0^iu0sla_()$)gt196m=cz&6_48_=68yq'
 
+DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+#ASGI_APPLICATION = 'tasksystem.asgi.application'
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
@@ -20,12 +24,38 @@ DATABASES = {
     }
 }
 
-CHANNEL_LAYERS['default'] = {
-    "BACKEND": "asgiref.inmemory.ChannelLayer",
-    "ROUTING": "taskselection.routing.channel_routing",
+CHANNEL_LAYERS = {
+    "default": {
+        "BACKEND": "channels_redis.core.RedisChannelLayer",
+        "CONFIG": {
+            "hosts": [("127.0.0.1", 6379)],
+        }
+    },
 }
+
+ALLOWED_HOSTS = ['localhost', '127.0.0.1']
 
 # CORS settings
 CORS_ORIGIN_ALLOW_ALL = True
 #CORS_REPLACE_HTTPS_REFERER = True
 CORS_ALLOW_CREDENTIALS = True
+
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': False,
+    'handlers': {
+        'console': {
+            'class': 'logging.StreamHandler',
+        },
+    },
+    'loggers': {
+        'django': {
+            'handlers': ['console'],
+            'level': 'INFO',
+        },
+        'channels': {
+            'handlers': ['console'],
+            'level': 'DEBUG',
+        },
+    },
+}

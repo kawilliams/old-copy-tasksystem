@@ -1,3 +1,4 @@
+#tasksystem/urls.py
 """tasksystem URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
@@ -17,10 +18,13 @@ from django.urls import path, include
 from django.contrib import admin
 from tasksystem import views as ts_views
 from rest_framework.authtoken import views as auth_views
+from asgiref.sync import async_to_sync
 
 urlpatterns = [
+  path("", include("taskselection.urls")),
   path('admin/', admin.site.urls),
-  path('', ts_views.Root.as_view()),
-  path('', include('taskselection.urls')),
-  path('api-token-auth/', auth_views.obtain_auth_token),
+  path('api-auth/', include('rest_framework.urls'))
+  # path('', async_to_sync(ts_views.Root.as_view())),
+  # path('', include('taskselection.urls')),
+  #path('api-token-auth/', auth_views.obtain_auth_token),
 ]

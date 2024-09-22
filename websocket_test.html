@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>WebSocket Test</title>
+</head>
+<body>
+    <h1>WebSocket Test</h1>
+    <div id="status">Connecting...</div>
+    <div id="messages"></div>
+    <input type="text" id="messageInput" placeholder="Enter message">
+    <button onclick="sendMessage()">Send</button>
+
+    <script>
+        const socket = new WebSocket(`ws://${window.location.host}/ws/task_selections/`);
+
+        socket.onopen = function(e) {
+            console.log("WebSocket connection established");
+            document.getElementById('status').textContent = 'Connected';
+        };
+
+        socket.onmessage = function(e) {
+            console.log("Message received:", e.data);
+            document.getElementById('messages').innerHTML += `<p>Received: ${e.data}</p>`;
+        };
+
+        socket.onclose = function(e) {
+            console.log("WebSocket connection closed", e);
+            document.getElementById('status').textContent = 'Disconnected';
+        };
+
+        socket.onerror = function(e) {
+            console.error("WebSocket error:", e);
+            document.getElementById('status').textContent = 'Error';
+        };
+
+        function sendMessage() {
+            console.log("Current WebSocket state:", socket.readyState);
+            if (socket.readyState === WebSocket.OPEN) {
+                const message = document.getElementById('messageInput').value;
+                socket.send(JSON.stringify({message: message}));
+                document.getElementById('messageInput').value = '';
+            } else {
+                console.log("WebSocket is not open. ReadyState:", socket.readyState);
+            }
+        }
+    </script>
+</body>
+</html>
