@@ -42,7 +42,7 @@ if DATABASES['default'] == {}:
 # }
 
 
-ALLOWED_HOSTS = ['old-copy-tasksystem.herokuapp.com', 'old-copy-tasksystem-9f16a052b963.herokuapp.com/', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['old-copy-tasksystem.herokuapp.com', 'old-copy-tasksystem-9f16a052b963.herokuapp.com', 'localhost', '127.0.0.1']
 
 # websockets
 redis_url = urlparse(os.environ.get('REDIS_URL', 'redis://localhost:6379'))
