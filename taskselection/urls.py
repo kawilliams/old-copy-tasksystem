@@ -27,13 +27,15 @@ urlpatterns = format_suffix_patterns([
     path('tasks/<int:code>/highlight/', 
         views.TaskHighlight.as_view(),
         name='task-highlight'),
-    # path("<str:room_name>/", views.room, name="room"),
     path('users/', 
         views.UserList.as_view(),
         name='user-list'),
     path('users/<int:pk>/', 
         views.UserDetail.as_view(),
-        name='user-detail')    
+        name='user-detail'),  
+    ## Test message passing by visiting http://127.0.0.1:8000/room/
+    # path("<str:room_name>/", views.room, name="room")
+    ### End message passing test 
 ])
 # path('available_tasks/', AvailableTaskList.as_view(), name='available-tasks'),
 # path('selected_tasks/', SelectedTaskList.as_view(), name='selected-tasks'),

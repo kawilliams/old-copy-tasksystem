@@ -14,14 +14,16 @@ from rest_framework import viewsets
 from rest_framework.decorators import action
 from rest_framework.decorators import api_view
 
+######## Used to test message passing through Channels #####
+from django.shortcuts import render
 
-# from django.shortcuts import render
+def index(request):
+    return render(request, "taskselection/index.html")
 
-# def index(request):
-#     return render(request, "taskselection/index.html")
+def room(request, room_name):
+    return render(request, "taskselection/room.html", {"room_name": room_name})
+######## END testing message passing through Channels #####
 
-# def room(request, room_name):
-#     return render(request, "taskselection/room.html", {"room_name": room_name})
 
 @api_view(['GET'])
 def api_root(request, format=None):
