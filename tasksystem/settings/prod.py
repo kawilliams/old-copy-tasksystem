@@ -4,7 +4,7 @@ import os
 from urllib.parse import urlparse
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True #False
 
 # Option to lock down the task system
 if os.environ.get('LOCK_TASKS', 'false').lower() == 'true':
@@ -42,7 +42,7 @@ if DATABASES['default'] == {}:
 # }
 
 
-ALLOWED_HOSTS = ['old-copy-tasksystem.herokuapp.com', 'https://old-copy-tasksystem-9f16a052b963.herokuapp.com/', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['old-copy-tasksystem.herokuapp.com', 'old-copy-tasksystem-9f16a052b963.herokuapp.com/', 'localhost', '127.0.0.1']
 
 # websockets
 redis_url = urlparse(os.environ.get('REDIS_URL', 'redis://localhost:6379'))
