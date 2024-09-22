@@ -2,8 +2,7 @@
 # from asgiref.sync import sync_to_async
 from django.contrib.auth.models import User
 from taskselection.models import Task
-from taskselection.serializers import TaskSerializer
-from taskselection.serializers import UserSerializer
+from taskselection.serializers import TaskSerializer, UserSerializer
 from taskselection.permissions import IsOwnerOrReadOnly
 from rest_framework import generics
 from rest_framework import permissions
@@ -13,14 +12,8 @@ from rest_framework.reverse import reverse
 from rest_framework import renderers
 from rest_framework import viewsets
 from rest_framework.decorators import action
+from rest_framework.decorators import api_view
 
-
-# class AsyncAPIView(APIView):
-#     @classmethod
-#     def as_view(cls, **initkwargs):
-#         view = super().as_view(**initkwargs)
-#         view._is_coroutine = asyncio.coroutine(view)
-#         return view
 
 # from django.shortcuts import render
 
@@ -38,15 +31,15 @@ def api_root(request, format=None):
     })
 
 
-class UserViewSet(viewsets.ReadOnlyModelViewSet):
-    """
-    This viewset automatically provides 'list' and 'retrieve'
-    actions.
-    """
+class UserList(generics.ListAPIView):
     queryset = User.objects.all()
     serializer_class = UserSerializer
 
+class UserDetail(generics.RetrieveAPIView):
+    queryset = User.objects.all()
+    serializer_class = UserSerializer
 
+# SnippetList
 class TaskViewSet(viewsets.ModelViewSet):
     """
     This ViewSet automatically provides 'list', 'create',
@@ -60,14 +53,34 @@ class TaskViewSet(viewsets.ModelViewSet):
 
     @action(detail=True, renderer_classes=[renderers.StaticHTMLRenderer])
     def highlight(self, request, *args, **kwargs):
-        """Creates a custom action, highlight."""
         task = self.get_object()
         return Response(task.desc)
 
     def perform_create(self, serializer):
         serializer.save(owner=self.request.user)
 
-"""
+class AvailableTaskList(generics.ListCreateAPIView):
+  #@sync_to_async 
+  queryset = Task.objects.all()
+  serializer_class = TaskSerializer
+  permission_classes = [permissions.IsAuthenticatedOrReadOnly]
+
+  def perform_create(self, serializer):
+    serializer.save(sv=self.request.user)
+
+# class SelectedTaskList(generics.ListAPIView):
+#   def get(self, request):
+#     sv = request.user
+#     tasks = Task.objects.filter(sv=sv)
+#     serializer = TaskSerializer(tasks, many=True)
+#     return Response(serializer.data, status=status.HTTP_200_OK)
+
+# SnippetDetail
+class SelectTask(generics.RetrieveUpdateDestroyAPIView):
+    queryset = Task.objects.all()
+    serializer_class = TaskSerializer
+
+
 #SnippetHighlight
 class TaskHighlight(generics.GenericAPIView):
     queryset = Task.objects.all()
@@ -76,7 +89,7 @@ class TaskHighlight(generics.GenericAPIView):
     def get(self, request, *args, **kwargs):
         task = self.get_object()
         return Response(task.desc)
-
+"""
 # SnippetDetail
 class SelectTask(generics.RetrieveUpdateDestroyAPIView):
     queryset = Task.objects.all()
