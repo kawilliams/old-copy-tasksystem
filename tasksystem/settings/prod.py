@@ -42,7 +42,7 @@ if DATABASES['default'] == {}:
 # }
 
 
-ALLOWED_HOSTS = ['old-copy-tasksystem.herokuapp.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['old-copy-tasksystem.herokuapp.com', 'https://old-copy-tasksystem-9f16a052b963.herokuapp.com/', 'localhost', '127.0.0.1']
 
 # websockets
 redis_url = urlparse(os.environ.get('REDIS_URL', 'redis://localhost:6379'))
@@ -67,6 +67,9 @@ CORS_ALLOW_CREDENTIALS = True
 # Daphne
 ASGI_APPLICATION = 'tasksystem.asgi.application'
 
+# Configure static files
+MIDDLEWARE.insert(1, 'whitenoise.middleware.WhiteNoiseMiddleware')
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 LOGGING = {
     'version': 1,
